@@ -781,3 +781,598 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.06-08.15.15:515][304]Cmd: TRANSACTION UNDO
 [2019.06.06-08.15.15:515][304]LogEditorTransaction: Undo Move Actors
 [2019.06.06-08.15.21:252][950]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-08.17.28:747][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-08.17.28:814][770]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-08.17.28:827][770]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.17.28:827][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-08.17.28:827][770]PIE: New page: PIE session: Blockout_04_Landscape1 (Jun 5, 2019, 6:17:28 PM)
+[2019.06.06-08.17.28:828][770]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape1
+[2019.06.06-08.17.28:980][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.152540s)
+[2019.06.06-08.17.28:981][770]LogAIModule: Creating AISystem for world Blockout_04_Landscape1
+[2019.06.06-08.17.28:981][770]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2019.06.06-08.17.28:981][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1 to /Game/Maps/UEDPIE_0_Blockout_04_Landscape1.Blockout_04_Landscape1 (0.153304s)
+[2019.06.06-08.17.29:017][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.06.06-08.17.29:037][770]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-08.17.29:087][770]LogInit: FAudioDevice initialized.
+[2019.06.06-08.17.29:122][770]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-08.17.29:145][770]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape1.Blockout_04_Landscape1 up for play (max tick rate 0) at 2019.06.06-01.17.29
+[2019.06.06-08.17.29:146][770]LogWorld: Bringing up level for play took: 0.023426
+[2019.06.06-08.17.29:158][770]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape1 1.104
+[2019.06.06-08.17.29:158][770]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.18.59:795][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.18.59:795][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-08.18.59:834][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-08.18.59:835][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.18.59:879][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-08.18.59:888][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.06.06-08.18.59:918][586]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.06.06-08.19.03:537][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Field_Boulders_01_Blockout_Field_Boulder_Angled_03)
+[2019.06.06-08.19.04:189][ 39]Cmd: DELETE
+[2019.06.06-08.19.04:189][ 39]Cmd: ACTOR DELETE
+[2019.06.06-08.19.04:210][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.06-08.19.04:241][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.06.06-08.19.04:241][ 39]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2019.06.06-08.19.06:621][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Field_Boulders_01_Blockout_Field_Boulder_Angled_04)
+[2019.06.06-08.19.12:528][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-08.19.12:603][944]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-08.19.12:617][944]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.19.12:617][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-08.19.12:618][944]PIE: New page: PIE session: Blockout_04_Landscape1 (Jun 5, 2019, 6:19:12 PM)
+[2019.06.06-08.19.12:618][944]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape1
+[2019.06.06-08.19.12:756][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.138954s)
+[2019.06.06-08.19.12:757][944]LogAIModule: Creating AISystem for world Blockout_04_Landscape1
+[2019.06.06-08.19.12:757][944]LogPlayLevel: PIE: World Init took: (0.000578s)
+[2019.06.06-08.19.12:757][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1 to /Game/Maps/UEDPIE_0_Blockout_04_Landscape1.Blockout_04_Landscape1 (0.139681s)
+[2019.06.06-08.19.12:792][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.06.06-08.19.12:812][944]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-08.19.12:856][944]LogInit: FAudioDevice initialized.
+[2019.06.06-08.19.12:882][944]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-08.19.12:909][944]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape1.Blockout_04_Landscape1 up for play (max tick rate 0) at 2019.06.06-01.19.12
+[2019.06.06-08.19.12:911][944]LogWorld: Bringing up level for play took: 0.027594
+[2019.06.06-08.19.12:924][944]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape1 0.869
+[2019.06.06-08.19.12:924][944]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.19.15:070][193]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.19.15:070][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-08.19.15:111][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-08.19.15:111][193]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.19.15:155][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-08.19.15:162][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.06.06-08.19.15:193][194]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.06.06-08.19.17:714][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-08.19.20:881][795]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2019.06.06-08.19.21:125][795]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.06.06-08.19.22:024][795]LogSlate: Took 0.005715 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.06-08.20.17:065][669]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2019.06.06-08.20.21:265][919]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.06.06-08.20.22:299][919]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.06.06-08.21.17:306][282]LogSlate: Window 'Project Settings' being destroyed
+[2019.06.06-08.21.24:424][669]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.06.06-08.22.47:660][216]LogSlate: Window 'Project Settings' being destroyed
+[2019.06.06-08.22.47:667][216]LogSlate: Window 'Project Settings' being destroyed
+[2019.06.06-08.22.51:258][432]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2019.06.06-08.23.00:576][799]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2019.06.06-08.23.14:468][617]LogAssetEditorManager: Opening Asset editor for Class /Script/Engine.PlayerController
+[2019.06.06-08.23.24:327][698]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Program Files/Epic Games/UE_4.22/Engine/Source/Runtime/Engine/Classes/GameFramework/PlayerController.h'
+[2019.06.06-08.23.24:329][698]LogVSAccessor: Warning: Couldn't open file 'C:/Program Files/Epic Games/UE_4.22/Engine/Source/Runtime/Engine/Private/PlayerController.cpp'.
+[2019.06.06-08.25.06:517][724]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'ACharacter::Jump' [Element not found.]
+[2019.06.06-08.26.33:225][660]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2019.06.06-08.26.33:627][660]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2019.06.06-08.26.33:891][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ThirdPersonCharacter" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2019.06.06-08.26.33:936][665]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/BP_ThirdPersonCharacter391D62984876CCB2CC9B099816474A8B.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2019.06.06-08.26.34:998][725]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-08.26.35:024][725]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.26.35:025][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-08.26.35:025][725]PIE: New page: PIE session: Blockout_04_Landscape1 (Jun 5, 2019, 6:26:35 PM)
+[2019.06.06-08.26.35:025][725]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape1
+[2019.06.06-08.26.35:217][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.191609s)
+[2019.06.06-08.26.35:218][725]LogAIModule: Creating AISystem for world Blockout_04_Landscape1
+[2019.06.06-08.26.35:218][725]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2019.06.06-08.26.35:218][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1 to /Game/Maps/UEDPIE_0_Blockout_04_Landscape1.Blockout_04_Landscape1 (0.192392s)
+[2019.06.06-08.26.35:293][725]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.06.06-08.26.35:311][725]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-08.26.35:353][725]LogInit: FAudioDevice initialized.
+[2019.06.06-08.26.35:385][725]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-08.26.35:435][725]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape1.Blockout_04_Landscape1 up for play (max tick rate 0) at 2019.06.06-01.26.35
+[2019.06.06-08.26.35:436][725]LogWorld: Bringing up level for play took: 0.050482
+[2019.06.06-08.26.35:451][725]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape1 1.397
+[2019.06.06-08.26.35:452][725]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.26.36:346][781]LogBlueprintUserMessages: [ThirdPersonCharacter_167] run
+[2019.06.06-08.26.37:162][848]LogBlueprintUserMessages: [ThirdPersonCharacter_167] run
+[2019.06.06-08.26.38:653][972]LogBlueprintUserMessages: [ThirdPersonCharacter_167] run
+[2019.06.06-08.26.39:471][ 40]LogBlueprintUserMessages: [ThirdPersonCharacter_167] run
+[2019.06.06-08.26.41:270][173]LogBlueprintUserMessages: [ThirdPersonCharacter_167] run
+[2019.06.06-08.26.43:329][336]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.26.43:330][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-08.26.43:374][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-08.26.43:374][336]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.26.43:425][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-08.26.43:434][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.06.06-08.26.43:512][337]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.06.06-08.26.44:479][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-08.27.50:072][968]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2019.06.06-08.27.50:294][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.06.06-08.27.50:724][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ThirdPersonCharacter" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2019.06.06-08.27.50:759][993]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/BP_ThirdPersonCharacter8E00BE284408F1FC718E57BF6B3A70FD.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2019.06.06-08.27.51:656][ 54]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-08.27.51:682][ 54]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.27.51:682][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-08.27.51:682][ 54]PIE: New page: PIE session: Blockout_04_Landscape1 (Jun 5, 2019, 6:27:51 PM)
+[2019.06.06-08.27.51:682][ 54]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape1
+[2019.06.06-08.27.51:866][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.184302s)
+[2019.06.06-08.27.51:867][ 54]LogAIModule: Creating AISystem for world Blockout_04_Landscape1
+[2019.06.06-08.27.51:867][ 54]LogPlayLevel: PIE: World Init took: (0.000549s)
+[2019.06.06-08.27.51:867][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1 to /Game/Maps/UEDPIE_0_Blockout_04_Landscape1.Blockout_04_Landscape1 (0.185002s)
+[2019.06.06-08.27.51:905][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.06.06-08.27.51:924][ 54]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-08.27.51:968][ 54]LogInit: FAudioDevice initialized.
+[2019.06.06-08.27.51:999][ 54]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-08.27.52:028][ 54]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape1.Blockout_04_Landscape1 up for play (max tick rate 0) at 2019.06.06-01.27.52
+[2019.06.06-08.27.52:029][ 54]LogWorld: Bringing up level for play took: 0.029211
+[2019.06.06-08.27.52:042][ 54]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape1 -0.012
+[2019.06.06-08.27.52:042][ 54]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.27.54:834][267]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.27.54:834][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-08.27.54:877][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-08.27.54:878][267]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.27.54:933][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-08.27.54:941][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.06.06-08.27.55:010][268]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.06.06-08.27.56:466][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-08.28.12:334][372]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2019.06.06-08.28.12:579][372]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.06.06-08.28.12:976][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ThirdPersonCharacter" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2019.06.06-08.28.13:010][395]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/BP_ThirdPersonCharacterBC3D4905434AD30935BD82AFFC5DDFFC.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2019.06.06-08.28.13:910][459]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-08.28.13:937][459]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.28.13:937][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-08.28.13:937][459]PIE: New page: PIE session: Blockout_04_Landscape1 (Jun 5, 2019, 6:28:13 PM)
+[2019.06.06-08.28.13:937][459]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape1
+[2019.06.06-08.28.14:097][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.159474s)
+[2019.06.06-08.28.14:097][459]LogAIModule: Creating AISystem for world Blockout_04_Landscape1
+[2019.06.06-08.28.14:097][459]LogPlayLevel: PIE: World Init took: (0.000504s)
+[2019.06.06-08.28.14:097][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1 to /Game/Maps/UEDPIE_0_Blockout_04_Landscape1.Blockout_04_Landscape1 (0.160123s)
+[2019.06.06-08.28.14:138][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.06.06-08.28.14:156][459]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-08.28.14:195][459]LogInit: FAudioDevice initialized.
+[2019.06.06-08.28.14:227][459]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-08.28.14:294][459]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape1.Blockout_04_Landscape1 up for play (max tick rate 0) at 2019.06.06-01.28.14
+[2019.06.06-08.28.14:296][459]LogWorld: Bringing up level for play took: 0.067466
+[2019.06.06-08.28.14:309][459]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape1 0.255
+[2019.06.06-08.28.14:309][459]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.28.16:634][635]LogBlueprintUserMessages: [ThirdPersonCharacter_167] run
+[2019.06.06-08.28.18:304][767]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.28.18:304][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-08.28.18:350][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-08.28.18:351][767]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.28.18:402][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-08.28.18:416][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.06.06-08.28.18:490][768]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.06.06-08.28.21:137][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-08.28.35:723][865]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2019.06.06-08.28.35:952][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.06.06-08.28.36:181][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ThirdPersonCharacter" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2019.06.06-08.28.36:217][877]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/BP_ThirdPersonCharacterF7DF9B1F4D71E1F75CCB08B83B9111CE.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2019.06.06-08.28.37:350][958]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-08.28.37:377][958]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.28.37:377][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-08.28.37:377][958]PIE: New page: PIE session: Blockout_04_Landscape1 (Jun 5, 2019, 6:28:37 PM)
+[2019.06.06-08.28.37:377][958]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape1
+[2019.06.06-08.28.37:552][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.174521s)
+[2019.06.06-08.28.37:552][958]LogAIModule: Creating AISystem for world Blockout_04_Landscape1
+[2019.06.06-08.28.37:553][958]LogPlayLevel: PIE: World Init took: (0.000514s)
+[2019.06.06-08.28.37:553][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1 to /Game/Maps/UEDPIE_0_Blockout_04_Landscape1.Blockout_04_Landscape1 (0.175173s)
+[2019.06.06-08.28.37:605][958]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.06.06-08.28.37:626][958]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-08.28.37:670][958]LogInit: FAudioDevice initialized.
+[2019.06.06-08.28.37:702][958]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-08.28.37:739][958]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape1.Blockout_04_Landscape1 up for play (max tick rate 0) at 2019.06.06-01.28.37
+[2019.06.06-08.28.37:740][958]LogWorld: Bringing up level for play took: 0.036957
+[2019.06.06-08.28.37:753][958]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape1 -0.302
+[2019.06.06-08.28.37:753][958]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.28.47:471][733]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.28.47:472][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-08.28.47:518][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-08.28.47:519][733]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.28.47:578][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-08.28.47:587][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.06.06-08.28.47:658][734]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.06.06-08.28.48:087][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-08.28.51:123][970]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-08.28.51:138][970]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.28.51:138][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-08.28.51:138][970]PIE: New page: PIE session: Blockout_04_Landscape1 (Jun 5, 2019, 6:28:51 PM)
+[2019.06.06-08.28.51:138][970]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape1
+[2019.06.06-08.28.51:321][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.182327s)
+[2019.06.06-08.28.51:321][970]LogAIModule: Creating AISystem for world Blockout_04_Landscape1
+[2019.06.06-08.28.51:321][970]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2019.06.06-08.28.51:322][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1 to /Game/Maps/UEDPIE_0_Blockout_04_Landscape1.Blockout_04_Landscape1 (0.183078s)
+[2019.06.06-08.28.51:383][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.06.06-08.28.51:402][970]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-08.28.51:442][970]LogInit: FAudioDevice initialized.
+[2019.06.06-08.28.51:473][970]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-08.28.51:496][970]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape1.Blockout_04_Landscape1 up for play (max tick rate 0) at 2019.06.06-01.28.51
+[2019.06.06-08.28.51:497][970]LogWorld: Bringing up level for play took: 0.023074
+[2019.06.06-08.28.51:510][970]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape1 -0.545
+[2019.06.06-08.28.51:510][970]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.29.02:186][684]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.29.02:186][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-08.29.02:240][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-08.29.02:241][684]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1' with GeneratedClass '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape1.Blockout_04_Landscape1:PersistentLevel.Blockout_04_Landscape1'
+[2019.06.06-08.29.02:302][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-08.29.02:310][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.06.06-08.29.02:378][685]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.06.06-08.29.03:954][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-08.29.54:290][471]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.06.06-08.29.54:292][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_04_Landscape1" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Maps/Blockout_04_Landscape1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.06.06-08.29.57:168][471]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_04_Landscape1_Auto10CFD36D5454DF674F194DFA002E46753.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Maps/Blockout_04_Landscape1_Auto1.umap'
+[2019.06.06-08.29.57:171][471]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Blockout_04_Landscape1' took 2.921
+[2019.06.06-08.29.57:171][471]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.921
+[2019.06.06-08.29.57:174][471]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_ThirdPersonCharacter] ([1] browsable assets)...
+[2019.06.06-08.29.57:188][471]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2019.06.06-08.29.57:188][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_ThirdPersonCharacter]
+[2019.06.06-08.29.57:188][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ThirdPersonCharacter" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.06.06-08.29.57:225][471]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/BP_ThirdPersonCharacter_Auto1A1A028DE4E964231CE6DC9ADB5E83A2E.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset'
+[2019.06.06-08.29.57:225][471]LogFileHelpers: Auto-saving content packages took 0.052
+[2019.06.06-08.30.12:009][803]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2019.06.06-08.30.12:225][803]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.06.06-08.30.13:427][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ThirdPersonCharacter" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2019.06.06-08.30.13:463][885]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/BP_ThirdPersonCharacterADDB9CA44BC25BF248F1AA80F2DD1810.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2019.06.06-08.30.18:584][250]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2019.06.06-08.30.18:770][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.06.06-08.30.19:133][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ThirdPersonCharacter" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2019.06.06-08.30.19:179][270]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/BP_ThirdPersonCharacter8C1C41414E0F143B1F9D6DB5C7C6C0C5.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2019.06.06-08.30.21:615][493]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2019.06.06-08.30.21:622][493]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.06-08.30.45:610][242]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-08.30.45:618][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_04_Landscape1" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.06-08.30.45:654][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.06.06-08.30.48:098][242]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_04_Landscape152D81DA4410E0B48C34B3EAA83612B86.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape1.umap'
+[2019.06.06-08.30.48:129][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_04_Landscape1_BuiltData" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape1_BuiltData.uasset" SILENT=true
+[2019.06.06-08.30.48:213][242]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_04_Landscape1_BuiltDataDD03A75349878D3E2B9C3CBFB5106B37.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape1_BuiltData.uasset'
+[2019.06.06-08.30.48:906][302]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.06.06-08.30.48:971][302]LogSlate: Window 'ItsOn - Unreal Editor' being destroyed
+[2019.06.06-08.30.48:975][302]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2019.06.06-08.30.49:216][303]Cmd: QUIT_EDITOR
+[2019.06.06-08.30.49:917][303]LogExit: Preparing to exit.
+[2019.06.06-08.30.50:138][303]LogExit: Editor shut down
+[2019.06.06-08.30.50:138][303]LogExit: Transaction tracking system shut down
+[2019.06.06-08.30.50:474][303]LogExit: Object subsystem successfully closed.
+[2019.06.06-08.30.50:511][303]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.06.06-08.30.50:517][303]LogD3D11RHI: Shutdown
+[2019.06.06-08.30.50:517][303]LogD3D11RHI: CleanupD3DDevice
+[2019.06.06-08.30.50:518][303]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.06.06-08.30.50:518][303]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.06.06-08.30.50:518][303]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.06.06-08.30.50:519][303]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.06.06-08.30.50:519][303]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.06.06-08.30.50:519][303]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.06.06-08.30.50:676][303]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.06.06-08.30.50:694][303]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (654)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module BlueprintGraph (652)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (650)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module MeshBuilder (648)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (646)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module Voice (644)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.06.06-08.30.50:695][303]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.06.06-08.30.50:696][303]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.06.06-08.30.50:896][303]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.06.06-08.30.50:897][303]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.06.06-08.30.50:897][303]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.06.06-08.30.50:897][303]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.06.06-08.30.50:897][303]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.06.06-08.30.50:897][303]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.06.06-08.30.50:897][303]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.06.06-08.30.50:897][303]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.06.06-08.30.50:897][303]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.06.06-08.30.50:897][303]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.06.06-08.30.50:897][303]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.06.06-08.30.50:897][303]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.06.06-08.30.50:897][303]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.06.06-08.30.50:897][303]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.06.06-08.30.50:897][303]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.06.06-08.30.50:897][303]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.06.06-08.30.50:897][303]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.06.06-08.30.50:897][303]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.06.06-08.30.50:897][303]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.06.06-08.30.50:897][303]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.06.06-08.30.50:898][303]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.06.06-08.30.50:898][303]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.06.06-08.30.50:898][303]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.06.06-08.30.50:940][303]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.06.06-08.30.50:940][303]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.06.06-08.30.50:940][303]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.06.06-08.30.50:940][303]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.06.06-08.30.50:940][303]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.06.06-08.30.50:940][303]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.06.06-08.30.50:940][303]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.06.06-08.30.50:940][303]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.06.06-08.30.50:940][303]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.06.06-08.30.50:941][303]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.06.06-08.30.50:941][303]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.06.06-08.30.50:951][303]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.06.06-08.30.50:951][303]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.06.06-08.30.50:951][303]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.06.06-08.30.50:951][303]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.06.06-08.30.50:951][303]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.06.06-08.30.50:951][303]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.06.06-08.30.50:951][303]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.06.06-08.30.50:951][303]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.06.06-08.30.50:951][303]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.06.06-08.30.50:951][303]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.06.06-08.30.50:952][303]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.06.06-08.30.50:952][303]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.06.06-08.30.50:952][303]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.06.06-08.30.50:952][303]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.06.06-08.30.50:952][303]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.06.06-08.30.50:952][303]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.06.06-08.30.50:952][303]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.06.06-08.30.50:952][303]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.06.06-08.30.50:952][303]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.06.06-08.30.50:952][303]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.06.06-08.30.50:952][303]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.06.06-08.30.50:952][303]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.06.06-08.30.50:952][303]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.06.06-08.30.50:952][303]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.06.06-08.30.50:957][303]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.06.06-08.30.50:991][303]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.06.06-08.30.50:991][303]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.06.06-08.30.50:991][303]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.06.06-08.30.50:991][303]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.06.06-08.30.50:991][303]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.06.06-08.30.50:991][303]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.06.06-08.30.50:991][303]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.06.06-08.30.50:992][303]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.06.06-08.30.50:992][303]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.06.06-08.30.50:992][303]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.06.06-08.30.50:992][303]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.06.06-08.30.50:992][303]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.06.06-08.30.50:992][303]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.06.06-08.30.50:992][303]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.06.06-08.30.50:992][303]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.06.06-08.30.50:992][303]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.06.06-08.30.50:992][303]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.06.06-08.30.50:992][303]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.06.06-08.30.50:992][303]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.06.06-08.30.50:992][303]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.06.06-08.30.50:992][303]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.06.06-08.30.50:992][303]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.06.06-08.30.50:992][303]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.06.06-08.30.50:992][303]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.06.06-08.30.50:992][303]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.06.06-08.30.50:992][303]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.06.06-08.30.50:992][303]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.06.06-08.30.50:992][303]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.06.06-08.30.50:992][303]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.06.06-08.30.50:993][303]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.06.06-08.30.50:993][303]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.06.06-08.30.50:993][303]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.06.06-08.30.50:993][303]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.06.06-08.30.50:993][303]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.06.06-08.30.50:993][303]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.06.06-08.30.50:993][303]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.06.06-08.30.50:993][303]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.06.06-08.30.50:993][303]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.06.06-08.30.50:993][303]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.06.06-08.30.50:993][303]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.06.06-08.30.50:993][303]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.06.06-08.30.50:993][303]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.06.06-08.30.50:993][303]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.06.06-08.30.50:993][303]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.06.06-08.30.50:993][303]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.06.06-08.30.50:993][303]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.06.06-08.30.50:993][303]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.06.06-08.30.50:994][303]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.06.06-08.30.50:994][303]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.06.06-08.30.50:994][303]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.06.06-08.30.50:994][303]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.06.06-08.30.50:994][303]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.06.06-08.30.50:994][303]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.06.06-08.30.50:994][303]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.06.06-08.30.50:994][303]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.06.06-08.30.50:994][303]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.06.06-08.30.50:994][303]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.06.06-08.30.50:994][303]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.06.06-08.30.50:994][303]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.06.06-08.30.50:994][303]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.06.06-08.30.50:994][303]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.06.06-08.30.50:994][303]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.06.06-08.30.51:096][303]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.06.06-08.30.51:196][303]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.06.06-08.30.51:196][303]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.06.06-08.30.51:196][303]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.06.06-08.30.51:196][303]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.06.06-08.30.51:196][303]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.06.06-08.30.51:196][303]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.06.06-08.30.51:196][303]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.06.06-08.30.51:196][303]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.06.06-08.30.51:196][303]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.06.06-08.30.51:196][303]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.06.06-08.30.51:196][303]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.06.06-08.30.51:196][303]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.06.06-08.30.51:197][303]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.06.06-08.30.51:197][303]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.06.06-08.30.51:198][303]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.06.06-08.30.51:198][303]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.06.06-08.30.51:199][303]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.06.06-08.30.51:199][303]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.06.06-08.30.51:199][303]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.06.06-08.30.51:200][303]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.06.06-08.30.51:200][303]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.06.06-08.30.51:200][303]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.06.06-08.30.51:200][303]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.06.06-08.30.51:200][303]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.06.06-08.30.51:200][303]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.06.06-08.30.51:200][303]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.06.06-08.30.51:200][303]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.06.06-08.30.51:200][303]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.06.06-08.30.51:201][303]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.06.06-08.30.51:201][303]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.06.06-08.30.51:201][303]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.06.06-08.30.51:201][303]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.06.06-08.30.51:201][303]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.06.06-08.30.51:201][303]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.06.06-08.30.51:201][303]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.06.06-08.30.51:201][303]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.06.06-08.30.51:201][303]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.06.06-08.30.51:201][303]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.06.06-08.30.51:201][303]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.06.06-08.30.51:201][303]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.06.06-08.30.51:201][303]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.06.06-08.30.51:201][303]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.06.06-08.30.51:201][303]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.06.06-08.30.51:201][303]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.06.06-08.30.51:201][303]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.06.06-08.30.51:201][303]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.06.06-08.30.51:203][303]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.06.06-08.30.51:203][303]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.06.06-08.30.51:203][303]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.06.06-08.30.51:203][303]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.06.06-08.30.51:203][303]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.06.06-08.30.51:203][303]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.06.06-08.30.51:203][303]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.06.06-08.30.51:203][303]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.06.06-08.30.51:203][303]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.06.06-08.30.51:203][303]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.06.06-08.30.51:203][303]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.06.06-08.30.51:203][303]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.06.06-08.30.51:203][303]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.06.06-08.30.51:203][303]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.06.06-08.30.51:203][303]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.06.06-08.30.51:203][303]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.06.06-08.30.51:279][303]LogDerivedDataCache: Shutdown
+[2019.06.06-08.30.51:279][303]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.06.06-08.30.51:279][303]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.06.06-08.30.51:279][303]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.06.06-08.30.51:279][303]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.06.06-08.30.51:279][303]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.06.06-08.30.51:279][303]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.06.06-08.30.51:279][303]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.06.06-08.30.51:279][303]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.06.06-08.30.51:279][303]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.06.06-08.30.51:279][303]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.06.06-08.30.51:279][303]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.06.06-08.30.51:280][303]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.06.06-08.30.51:280][303]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.06.06-08.30.51:280][303]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.06.06-08.30.51:280][303]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.06.06-08.30.51:280][303]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.06.06-08.30.51:280][303]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.06.06-08.30.51:280][303]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.06.06-08.30.51:281][303]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.06.06-08.30.51:281][303]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.06.06-08.30.51:281][303]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.06.06-08.30.51:281][303]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.06.06-08.30.51:281][303]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.06.06-08.30.51:282][303]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.06.06-08.30.51:282][303]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.06.06-08.30.51:283][303]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.06.06-08.30.51:283][303]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.06.06-08.30.51:297][303]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.06.06-08.30.51:298][303]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.06.06-08.30.51:298][303]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.06.06-08.30.51:298][303]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.06.06-08.30.51:298][303]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.06.06-08.30.51:298][303]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.06.06-08.30.51:298][303]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.06.06-08.30.51:298][303]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.06.06-08.30.51:298][303]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.06.06-08.30.51:298][303]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.06.06-08.30.51:298][303]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.06.06-08.30.51:298][303]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.06.06-08.30.51:298][303]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.06.06-08.30.51:298][303]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.06.06-08.30.51:299][303]LogHMD: Freeing OpenVRDLLHandle.
+[2019.06.06-08.30.51:299][303]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.06.06-08.30.51:299][303]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.06.06-08.30.51:299][303]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.06.06-08.30.51:299][303]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.06.06-08.30.51:299][303]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.06.06-08.30.51:300][303]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.06.06-08.30.51:300][303]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.06.06-08.30.51:312][303]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.06.06-08.30.51:312][303]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.06.06-08.30.51:312][303]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94BE53FC-4AEF-F3DB-98D9-7FB48CEEBC80%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.2-6574378%2B%2B%2BUE4%2BRelease-4.22&UserID=125527974bf19308f3492a9a6d8c431a%7Ccd26c3a327eb45b2b1e0bffdeb6126d4%7C55c58df7-8c33-4a0a-b4a0-aae15156d906&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.06.06-08.30.51:320][303]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.06.06-08.30.51:323][303]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.06.06-08.30.51:326][303]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.06.06-08.30.51:334][303]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.06.06-08.30.51:334][303]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.06.06-08.30.51:334][303]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.06.06-08.30.51:334][303]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.06.06-08.30.51:334][303]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.06.06-08.30.51:334][303]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.06.06-08.30.51:335][303]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.06.06-08.30.51:335][303]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.06.06-08.30.51:335][303]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.06.06-08.30.51:335][303]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.06.06-08.30.51:335][303]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.06.06-08.30.51:336][303]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.06.06-08.30.51:336][303]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.06.06-08.30.51:336][303]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.06.06-08.30.51:336][303]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.06.06-08.30.51:336][303]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.06.06-08.30.51:336][303]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.06.06-08.30.51:336][303]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.06.06-08.30.51:336][303]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.06.06-08.30.51:336][303]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.06.06-08.30.51:336][303]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.06.06-08.30.51:356][303]LogExit: Exiting.
+[2019.06.06-08.30.51:382][303]Log file closed, 06/06/19 01:30:51
