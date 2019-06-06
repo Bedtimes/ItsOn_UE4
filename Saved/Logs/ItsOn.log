@@ -931,3 +931,888 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.06-18.54.18:516][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
 [2019.06.06-18.54.20:995][969]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_04_LandscapeAE574F014F7F2D9E4C3C0B90C1EF7BEB.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape.umap'
 [2019.06.06-18.54.21:028][969]LogFileHelpers: Saving map 'Blockout_04_Landscape' took 2.558
+[2019.06.06-18.55.39:765][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-18.55.40:168][376]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-18.55.40:182][376]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-18.55.40:182][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-18.55.40:182][376]PIE: New page: PIE session: Blockout_04_Landscape (Jun 6, 2019, 4:55:40 AM)
+[2019.06.06-18.55.40:182][376]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape
+[2019.06.06-18.55.40:347][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.163767s)
+[2019.06.06-18.55.40:347][376]LogAIModule: Creating AISystem for world Blockout_04_Landscape
+[2019.06.06-18.55.40:347][376]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2019.06.06-18.55.40:347][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape to /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape (0.164631s)
+[2019.06.06-18.55.40:388][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.06.06-18.55.40:408][376]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-18.55.40:454][376]LogInit: FAudioDevice initialized.
+[2019.06.06-18.55.40:485][376]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-18.55.40:510][376]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape up for play (max tick rate 0) at 2019.06.06-11.55.40
+[2019.06.06-18.55.40:511][376]LogWorld: Bringing up level for play took: 0.025359
+[2019.06.06-18.55.40:524][376]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape 0.469
+[2019.06.06-18.55.40:524][376]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-18.55.42:847][627]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-18.55.42:847][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-18.55.42:885][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-18.55.42:885][627]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-18.55.42:938][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-18.55.42:950][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.06.06-18.55.43:029][628]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.06.06-18.55.47:963][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-18.55.48:023][793]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-18.55.48:035][793]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-18.55.48:035][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-18.55.48:035][793]PIE: New page: PIE session: Blockout_04_Landscape (Jun 6, 2019, 4:55:48 AM)
+[2019.06.06-18.55.48:036][793]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape
+[2019.06.06-18.55.48:206][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.170369s)
+[2019.06.06-18.55.48:207][793]LogAIModule: Creating AISystem for world Blockout_04_Landscape
+[2019.06.06-18.55.48:207][793]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2019.06.06-18.55.48:207][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape to /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape (0.171090s)
+[2019.06.06-18.55.48:259][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.06.06-18.55.48:278][793]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-18.55.48:323][793]LogInit: FAudioDevice initialized.
+[2019.06.06-18.55.48:351][793]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-18.55.48:374][793]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape up for play (max tick rate 0) at 2019.06.06-11.55.48
+[2019.06.06-18.55.48:374][793]LogWorld: Bringing up level for play took: 0.023811
+[2019.06.06-18.55.48:388][793]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape 0.334
+[2019.06.06-18.55.48:388][793]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-18.56.20:677][358]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-18.56.20:677][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-18.56.20:717][358]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-18.56.20:717][358]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-18.56.20:776][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-18.56.20:784][358]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.06.06-18.56.20:880][359]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.06.06-18.56.38:682][517]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-18.56.38:691][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_04_Landscape" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.06-18.56.38:731][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.06.06-18.56.41:323][517]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_04_LandscapeF177226443648B8C38C755AD1C20766C.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape.umap'
+[2019.06.06-18.56.41:351][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_04_Landscape_BuiltData" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape_BuiltData.uasset" SILENT=true
+[2019.06.06-18.56.41:501][517]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_04_Landscape_BuiltData4C5B076A45154B91A6632EB9EF96D403.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape_BuiltData.uasset'
+[2019.06.06-18.58.59:026][ 85]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-18.58.59:041][ 85]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-18.58.59:041][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-18.58.59:041][ 85]PIE: New page: PIE session: Blockout_04_Landscape (Jun 6, 2019, 4:58:59 AM)
+[2019.06.06-18.58.59:041][ 85]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape
+[2019.06.06-18.58.59:211][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.169277s)
+[2019.06.06-18.58.59:212][ 85]LogAIModule: Creating AISystem for world Blockout_04_Landscape
+[2019.06.06-18.58.59:212][ 85]LogPlayLevel: PIE: World Init took: (0.001410s)
+[2019.06.06-18.58.59:213][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape to /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape (0.170986s)
+[2019.06.06-18.58.59:259][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.06.06-18.58.59:282][ 85]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-18.58.59:328][ 85]LogInit: FAudioDevice initialized.
+[2019.06.06-18.58.59:356][ 85]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-18.58.59:396][ 85]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape up for play (max tick rate 0) at 2019.06.06-11.58.59
+[2019.06.06-18.58.59:397][ 85]LogWorld: Bringing up level for play took: 0.040490
+[2019.06.06-18.58.59:411][ 85]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape 1.357
+[2019.06.06-18.58.59:411][ 85]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-18.59.04:832][687]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-18.59.04:833][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-18.59.04:874][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-18.59.04:874][687]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-18.59.04:925][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-18.59.04:934][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.06.06-18.59.05:015][688]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.06.06-18.59.22:073][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-18.59.22:139][823]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-18.59.22:152][823]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-18.59.22:152][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-18.59.22:152][823]PIE: New page: PIE session: Blockout_04_Landscape (Jun 6, 2019, 4:59:22 AM)
+[2019.06.06-18.59.22:153][823]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape
+[2019.06.06-18.59.22:344][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.191092s)
+[2019.06.06-18.59.22:344][823]LogAIModule: Creating AISystem for world Blockout_04_Landscape
+[2019.06.06-18.59.22:345][823]LogPlayLevel: PIE: World Init took: (0.001204s)
+[2019.06.06-18.59.22:345][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape to /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape (0.192622s)
+[2019.06.06-18.59.22:403][823]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.06.06-18.59.22:421][823]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-18.59.22:460][823]LogInit: FAudioDevice initialized.
+[2019.06.06-18.59.22:493][823]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-18.59.22:532][823]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape up for play (max tick rate 0) at 2019.06.06-11.59.22
+[2019.06.06-18.59.22:533][823]LogWorld: Bringing up level for play took: 0.039586
+[2019.06.06-18.59.22:546][823]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape 0.492
+[2019.06.06-18.59.22:547][823]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-18.59.55:865][588]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-18.59.55:865][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-18.59.55:904][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-18.59.55:904][588]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-18.59.55:955][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-18.59.55:966][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.06.06-18.59.56:062][589]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.06.06-19.00.04:414][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.00.04:484][725]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-19.00.04:497][725]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-19.00.04:497][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-19.00.04:497][725]PIE: New page: PIE session: Blockout_04_Landscape (Jun 6, 2019, 5:00:04 AM)
+[2019.06.06-19.00.04:497][725]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape
+[2019.06.06-19.00.04:715][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.217176s)
+[2019.06.06-19.00.04:715][725]LogAIModule: Creating AISystem for world Blockout_04_Landscape
+[2019.06.06-19.00.04:715][725]LogPlayLevel: PIE: World Init took: (0.000553s)
+[2019.06.06-19.00.04:715][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape to /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape (0.217885s)
+[2019.06.06-19.00.04:761][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.06.06-19.00.04:780][725]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-19.00.04:829][725]LogInit: FAudioDevice initialized.
+[2019.06.06-19.00.04:862][725]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-19.00.04:884][725]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape up for play (max tick rate 0) at 2019.06.06-12.00.04
+[2019.06.06-19.00.04:885][725]LogWorld: Bringing up level for play took: 0.022533
+[2019.06.06-19.00.04:900][725]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape 0.846
+[2019.06.06-19.00.04:900][725]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-19.00.11:184][421]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-19.00.11:184][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-19.00.11:223][421]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-19.00.11:224][421]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-19.00.11:271][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-19.00.11:281][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.06.06-19.00.11:347][422]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.06.06-19.00.15:117][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.00.24:224][338]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.06.06-19.00.26:113][464]LogEditorViewport: Clicking on Actor (LMB): BP_ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.06.06-19.00.32:493][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.00.35:430][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.00.40:534][421]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.06.06-19.00.41:091][455]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin)
+[2019.06.06-19.00.44:901][753]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.00.47:458][916]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin)
+[2019.06.06-19.01.06:087][127]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin)
+[2019.06.06-19.01.06:746][180]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-19.01.07:195][217]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-19.01.12:393][638]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.06.06-19.01.13:246][695]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin)
+[2019.06.06-19.01.20:156][221]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.02.04:554][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.02.04:601][892]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-19.02.04:616][892]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-19.02.04:616][892]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-19.02.04:616][892]PIE: New page: PIE session: Blockout_04_Landscape (Jun 6, 2019, 5:02:04 AM)
+[2019.06.06-19.02.04:616][892]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape
+[2019.06.06-19.02.04:772][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.156779s)
+[2019.06.06-19.02.04:773][892]LogAIModule: Creating AISystem for world Blockout_04_Landscape
+[2019.06.06-19.02.04:773][892]LogPlayLevel: PIE: World Init took: (0.000533s)
+[2019.06.06-19.02.04:773][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape to /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape (0.157450s)
+[2019.06.06-19.02.04:820][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.06.06-19.02.04:838][892]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-19.02.04:896][892]LogInit: FAudioDevice initialized.
+[2019.06.06-19.02.04:928][892]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-19.02.04:950][892]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape up for play (max tick rate 0) at 2019.06.06-12.02.04
+[2019.06.06-19.02.04:951][892]LogWorld: Bringing up level for play took: 0.022220
+[2019.06.06-19.02.04:963][892]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape 0.909
+[2019.06.06-19.02.04:963][892]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-19.02.18:549][422]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-19.02.18:549][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-19.02.18:594][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-19.02.18:594][422]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-19.02.18:652][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-19.02.18:668][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.06.06-19.02.18:757][423]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.06.06-19.03.07:336][865]Cmd: ACTOR SELECT MATCHINGSTATICMESH ALLCLASSES
+[2019.06.06-19.03.07:341][865]LogEditorActor: No worlds found in edactSelectMatchingStaticMesh
+[2019.06.06-19.03.14:915][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.03.17:311][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.03.19:476][891]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.03.23:506][188]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin2)
+[2019.06.06-19.03.27:137][477]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.05.04:568][514]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-19.05.09:610][875]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.05.10:060][909]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin2)
+[2019.06.06-19.05.11:418][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-19.05.13:600][191]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.05.14:162][233]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin2)
+[2019.06.06-19.05.15:372][326]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-19.05.15:902][368]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-19.07.36:003][278]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.07.36:545][315]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.07.36:943][345]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin2)
+[2019.06.06-19.07.51:736][680]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin2)
+[2019.06.06-19.07.51:757][680]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-19.07.52:879][770]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.07.53:311][802]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin2)
+[2019.06.06-19.07.55:372][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.07.55:458][972]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2019.06.06-19.08.33:899][277]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2019.06.06-19.08.33:900][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_04_Landscape" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Maps/Blockout_04_Landscape_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.06.06-19.08.36:823][277]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_04_Landscape_Auto2013F0DD34B5B6DEAB435EC81841214AD.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Maps/Blockout_04_Landscape_Auto2.umap'
+[2019.06.06-19.08.36:828][277]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Blockout_04_Landscape' took 3.008
+[2019.06.06-19.08.36:828][277]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.008
+[2019.06.06-19.08.42:539][295]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-19.09.05:029][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Beach_Cliffs_01_Beach_Cliff_Pillar_02)
+[2019.06.06-19.09.05:163][141]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-19.09.12:318][861]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.06.06-19.09.12:471][868]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-19.09.19:692][368]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin)
+[2019.06.06-19.09.25:897][ 17]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.09.28:998][342]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin)
+[2019.06.06-19.09.30:493][506]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.09.32:933][748]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin)
+[2019.06.06-19.09.38:090][339]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Beach_Cliffs_01_Beach_Cliff_03)
+[2019.06.06-19.09.39:373][482]Cmd: TRANSACTION UNDO
+[2019.06.06-19.09.39:373][482]LogEditorTransaction: Undo Move Actors
+[2019.06.06-19.09.43:464][934]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.09.46:324][238]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin)
+[2019.06.06-19.09.49:644][610]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.09.52:391][881]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin)
+[2019.06.06-19.09.58:004][535]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.10.00:307][758]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin)
+[2019.06.06-19.10.03:929][164]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.11.55:224][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.12.00:016][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.12.00:112][358]LogActorFactory: Actor Factory created PINE_03
+[2019.06.06-19.12.03:330][683]LogActorFactory: Actor Factory created PINE_03
+[2019.06.06-19.12.04:428][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.12.04:434][790]LogMaterial: Display: Missing cached shader map for material M_pine01_tr, compiling. 
+[2019.06.06-19.12.04:435][790]LogMaterial: Warning: X:\ItsOnRepo_UE4\ItsOn_UE4\Content\Meshes\ForestBiome\tree\M_pine01_tr.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.06-19.12.04:435][790]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.06.06-19.12.04:437][790]LogMaterial: Display: Missing cached shader map for material M_pine01_fo, compiling. 
+[2019.06.06-19.12.04:437][790]LogMaterial: Warning: X:\ItsOnRepo_UE4\ItsOn_UE4\Content\Meshes\ForestBiome\tree\M_pine01_fo.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.06-19.12.04:437][790]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.06.06-19.12.04:533][795]LogActorFactory: Actor Factory created PINE_02
+[2019.06.06-19.12.06:149][961]LogActorFactory: Actor Factory created PINE_02
+[2019.06.06-19.12.07:278][ 57]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.12.09:876][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.12.09:940][323]LogActorFactory: Actor Factory created PINE_02
+[2019.06.06-19.12.10:853][407]LogActorFactory: Actor Factory created PINE_02
+[2019.06.06-19.12.11:915][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.12.12:005][508]LogActorFactory: Actor Factory created PINE_02
+[2019.06.06-19.12.13:444][644]LogActorFactory: Actor Factory created PINE_02
+[2019.06.06-19.12.13:858][685]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.12.23:258][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.12.24:358][154]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.06.06-19.12.25:633][299]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.12.27:949][543]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.12.30:141][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Beach_Cliffs_01_Beach_Cliff_Pillar_02)
+[2019.06.06-19.12.35:044][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Beach_Cliffs_01_Beach_Cliff_03)
+[2019.06.06-19.12.38:207][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Beach_Cliffs_01_Beach_Cliff_Pillar_02)
+[2019.06.06-19.12.38:682][758]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.12.40:692][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Beach_Cliffs_01_Beach_Cliff_Pillar_02)
+[2019.06.06-19.13.36:740][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.14.01:663][ 46]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin)
+[2019.06.06-19.14.11:196][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PINE_03)
+[2019.06.06-19.14.19:040][919]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin)
+[2019.06.06-19.14.25:524][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Beach_Cliffs_01_Beach_Cliff_03)
+[2019.06.06-19.14.26:311][713]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin)
+[2019.06.06-19.14.32:803][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.14.37:364][822]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.18.37:197][565]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2019.06.06-19.18.37:198][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_04_Landscape" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Maps/Blockout_04_Landscape_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.06.06-19.18.39:940][565]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_04_Landscape_Auto37F85C0634CD81022CDEBAA89FD90E134.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Maps/Blockout_04_Landscape_Auto3.umap'
+[2019.06.06-19.18.39:948][565]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Blockout_04_Landscape' took 2.836
+[2019.06.06-19.18.39:948][565]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.836
+[2019.06.06-19.20.56:131][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PINE_3)
+[2019.06.06-19.20.56:633][557]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-19.21.00:172][955]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin)
+[2019.06.06-19.21.01:634][111]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Beach_Cliffs_01_Beach_Cliff_03)
+[2019.06.06-19.21.01:696][111]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-19.21.02:607][205]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin)
+[2019.06.06-19.21.02:978][236]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-19.21.05:117][422]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin)
+[2019.06.06-19.21.28:773][144]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-19.21.29:584][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PINE_3)
+[2019.06.06-19.21.29:860][256]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-19.21.34:278][753]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.21.35:935][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PINE_03)
+[2019.06.06-19.21.39:883][392]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.24.37:980][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.24.45:361][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Beach_Cliffs_01_Beach_Cliff_03)
+[2019.06.06-19.24.49:169][317]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.24.49:343][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.28.40:284][844]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.06.06-19.28.40:285][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_04_Landscape" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Maps/Blockout_04_Landscape_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.06.06-19.28.43:172][844]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_04_Landscape_Auto4CD34A3144E990D6E945E0B97982C5582.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Maps/Blockout_04_Landscape_Auto4.umap'
+[2019.06.06-19.28.43:175][844]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Blockout_04_Landscape' took 2.946
+[2019.06.06-19.28.43:175][844]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.946
+[2019.06.06-19.41.23:110][555]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-19.41.30:634][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.41.38:575][132]Cmd: DELETE
+[2019.06.06-19.41.38:575][132]Cmd: ACTOR DELETE
+[2019.06.06-19.41.38:595][132]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.06.06-19.41.38:632][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.06.06-19.41.38:633][132]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2019.06.06-19.41.39:498][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.41.43:918][717]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.41.56:458][819]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-19.42.31:260][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.06.06-19.42.31:261][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_04_Landscape" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Maps/Blockout_04_Landscape_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.06.06-19.42.33:788][578]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_04_Landscape_Auto5FD6F5A0C431D7172B455D094A4DC062A.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Maps/Blockout_04_Landscape_Auto5.umap'
+[2019.06.06-19.42.33:791][578]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Blockout_04_Landscape' took 2.579
+[2019.06.06-19.42.33:791][578]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.579
+[2019.06.06-19.42.49:586][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.42.56:761][387]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-19.42.57:306][431]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-19.43.16:745][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.43.28:023][425]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.43.30:297][683]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.06.06-19.43.33:724][947]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-19.43.36:165][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.43.36:994][264]LogMaterial: Warning: Material /Game/Meshes/ForestBiome/Blockout/water.water needed to have new flag set bUsedWithSkeletalMesh !
+[2019.06.06-19.43.36:996][264]LogMaterial: Display: Missing cached shader map for material water, compiling. 
+[2019.06.06-19.43.40:108][475]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.44.10:134][580]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-19.44.11:001][672]Cmd: DELETE
+[2019.06.06-19.44.11:001][672]Cmd: ACTOR DELETE
+[2019.06.06-19.44.11:022][672]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.06.06-19.44.11:054][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.06.06-19.44.11:055][672]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2019.06.06-19.44.15:695][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.44.20:838][774]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.44.34:657][271]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-19.44.35:471][360]Cmd: DELETE
+[2019.06.06-19.44.35:471][360]Cmd: ACTOR DELETE
+[2019.06.06-19.44.35:490][360]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.06.06-19.44.35:525][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.06.06-19.44.35:525][360]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2019.06.06-19.45.11:554][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.45.14:093][688]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.45.16:223][936]Cmd: TRANSACTION UNDO
+[2019.06.06-19.45.16:223][936]LogEditorTransaction: Undo Clicking on Actors
+[2019.06.06-19.45.16:748][980]Cmd: TRANSACTION UNDO
+[2019.06.06-19.45.16:748][980]LogEditorTransaction: Undo Create Actors
+[2019.06.06-19.45.17:536][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.45.23:742][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.45.29:540][303]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.45.57:680][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.48.42:054][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.48.47:542][871]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.06.06-19.48.48:533][977]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.06.06-19.48.50:558][210]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.06.06-19.48.52:862][420]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-19.48.56:419][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.49.03:265][550]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.49.05:319][762]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-19.49.11:370][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.49.14:179][770]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.49.21:205][556]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-19.49.22:121][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.49.22:668][703]LogMaterial: Warning: Material /Game/Meshes/ForestBiome/Blockout/lambert1.lambert1 needed to have new flag set bUsedWithSkeletalMesh !
+[2019.06.06-19.49.22:670][703]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2019.06.06-19.49.24:946][855]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.49.28:216][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.49.31:062][488]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-19.49.32:095][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.49.32:720][656]LogMaterial: Warning: Material /Game/Meshes/ForestBiome/Blockout/default.default needed to have new flag set bUsedWithSkeletalMesh !
+[2019.06.06-19.49.32:722][656]LogMaterial: Display: Missing cached shader map for material default, compiling. 
+[2019.06.06-19.49.33:460][706]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.49.34:903][823]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-19.49.36:652][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.49.41:013][420]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.49.45:849][786]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-19.52.34:231][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.06.06-19.52.34:233][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_04_Landscape" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Maps/Blockout_04_Landscape_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.06.06-19.52.36:915][338]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_04_Landscape_Auto6C4AEC5D344FD4A20C186F2AD8435A35D.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Maps/Blockout_04_Landscape_Auto6.umap'
+[2019.06.06-19.52.36:918][338]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Blockout_04_Landscape' took 2.737
+[2019.06.06-19.52.36:918][338]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.737
+[2019.06.06-19.52.36:920][338]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/ForestBiome/Blockout/water] ([1] browsable assets)...
+[2019.06.06-19.52.36:933][338]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Meshes/ForestBiome/Blockout/water.water]
+[2019.06.06-19.52.36:933][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/ForestBiome/Blockout/water]
+[2019.06.06-19.52.36:933][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/ForestBiome/Blockout/water" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Meshes/ForestBiome/Blockout/water_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2019.06.06-19.52.36:951][338]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/water_Auto68FD9FA8C42F7FF3D485633AE50417BCC.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Meshes/ForestBiome/Blockout/water_Auto6.uasset'
+[2019.06.06-19.52.36:952][338]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/ForestBiome/Blockout/lambert1] ([1] browsable assets)...
+[2019.06.06-19.52.36:962][338]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Meshes/ForestBiome/Blockout/lambert1.lambert1]
+[2019.06.06-19.52.36:962][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/ForestBiome/Blockout/lambert1]
+[2019.06.06-19.52.36:981][338]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/lambert1_Auto66ABD199A4F8D32A18B8FDD97E4A87B96.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Meshes/ForestBiome/Blockout/lambert1_Auto6.uasset'
+[2019.06.06-19.52.36:982][338]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/ForestBiome/Blockout/default] ([1] browsable assets)...
+[2019.06.06-19.52.36:992][338]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Meshes/ForestBiome/Blockout/default.default]
+[2019.06.06-19.52.36:992][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/ForestBiome/Blockout/default]
+[2019.06.06-19.52.37:008][338]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/default_Auto626501F804464C3EFBFA44A975F0B2DAE.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Meshes/ForestBiome/Blockout/default_Auto6.uasset'
+[2019.06.06-19.52.37:009][338]LogFileHelpers: Auto-saving content packages took 0.088
+[2019.06.06-19.57.38:868][485]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.57.48:005][527]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.57.55:869][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Beach_Cliffs_01_Beach_Cliff_Outcrop_13)
+[2019.06.06-19.57.56:746][501]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.58.00:976][966]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.58.36:880][621]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.58.40:044][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BC_ROCK_25)
+[2019.06.06-19.58.40:919][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OCEAN)
+[2019.06.06-19.58.41:674][ 43]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.59.04:470][365]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-19.59.09:664][905]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-19.59.35:218][524]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-19.59.36:250][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-19.59.59:975][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-20.00.01:894][807]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-20.00.09:051][474]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-20.00.10:302][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.00.14:384][933]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.00.22:412][727]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-20.00.34:540][828]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.00.40:149][369]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.00.44:501][780]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.01.04:940][793]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-20.01.27:728][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.01.33:484][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.01.38:448][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Field_Boulders_01_Blockout_Field_Boulder_Angled_13)
+[2019.06.06-20.01.41:549][362]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin4)
+[2019.06.06-20.01.42:880][505]Cmd: DELETE
+[2019.06.06-20.01.42:880][505]Cmd: ACTOR DELETE
+[2019.06.06-20.01.42:903][505]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.06.06-20.01.42:941][505]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.06.06-20.01.42:942][505]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2019.06.06-20.01.53:956][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.06.06-20.01.55:858][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.01.56:571][ 19]EditorErrors: New page: Actor attachment
+[2019.06.06-20.01.59:140][286]EditorErrors: New page: Actor attachment
+[2019.06.06-20.02.05:487][944]Cmd: TRANSACTION UNDO
+[2019.06.06-20.02.05:487][944]LogEditorTransaction: Undo Scale Actors
+[2019.06.06-20.02.09:845][395]Cmd: TRANSACTION UNDO
+[2019.06.06-20.02.09:845][395]LogEditorTransaction: Undo Scale Actors
+[2019.06.06-20.02.11:803][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.02.15:915][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.02.16:873][114]Cmd: DELETE
+[2019.06.06-20.02.16:873][114]Cmd: ACTOR DELETE
+[2019.06.06-20.02.16:891][114]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.06-20.02.16:926][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.06.06-20.02.16:926][114]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2019.06.06-20.02.17:709][204]Cmd: DELETE
+[2019.06.06-20.02.17:709][204]Cmd: ACTOR DELETE
+[2019.06.06-20.02.17:732][204]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.06-20.02.17:764][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.06.06-20.02.17:765][204]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2019.06.06-20.02.18:150][250]Cmd: DELETE
+[2019.06.06-20.02.18:150][250]Cmd: ACTOR DELETE
+[2019.06.06-20.02.18:185][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.06.06-20.02.18:186][250]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2019.06.06-20.02.18:864][327]Cmd: DELETE
+[2019.06.06-20.02.18:864][327]Cmd: ACTOR DELETE
+[2019.06.06-20.02.18:892][327]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.06-20.02.18:925][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.06.06-20.02.18:927][327]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2019.06.06-20.02.19:502][396]Cmd: DELETE
+[2019.06.06-20.02.19:502][396]Cmd: ACTOR DELETE
+[2019.06.06-20.02.19:540][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.06.06-20.02.19:540][396]LogEditorActor: Deleted 0 Actors (0.038 secs)
+[2019.06.06-20.02.20:193][468]Cmd: DELETE
+[2019.06.06-20.02.20:193][468]Cmd: ACTOR DELETE
+[2019.06.06-20.02.20:216][468]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.06-20.02.20:248][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.06.06-20.02.20:249][468]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2019.06.06-20.02.21:020][555]Cmd: DELETE
+[2019.06.06-20.02.21:020][555]Cmd: ACTOR DELETE
+[2019.06.06-20.02.21:043][555]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.06-20.02.21:077][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.06.06-20.02.21:078][555]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2019.06.06-20.02.21:769][633]Cmd: DELETE
+[2019.06.06-20.02.21:769][633]Cmd: ACTOR DELETE
+[2019.06.06-20.02.21:787][633]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.06-20.02.21:822][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.06.06-20.02.21:822][633]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2019.06.06-20.02.33:397][976]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-20.02.34:353][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.02.37:160][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Beach_Cliffs_01_Beach_Cliff_57)
+[2019.06.06-20.02.51:659][926]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-20.03.11:673][  2]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-20.03.20:565][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.03.24:468][163]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.03.28:110][466]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-20.03.29:312][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.03.33:515][888]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.03.52:257][885]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-20.04.17:158][545]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-20.04.17:218][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.06.06-20.04.17:219][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_04_Landscape" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Maps/Blockout_04_Landscape_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.06.06-20.04.19:320][545]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_04_Landscape_Auto7674E128A428799C455B699AD7FEA84AC.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Maps/Blockout_04_Landscape_Auto7.umap'
+[2019.06.06-20.04.19:327][545]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Blockout_04_Landscape' took 2.143
+[2019.06.06-20.04.19:327][545]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.143
+[2019.06.06-20.04.25:124][ 73]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.04.27:092][230]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.06.06-20.04.29:073][383]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-20.04.33:345][793]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.04.39:787][447]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-20.04.42:718][694]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.04.45:367][920]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-20.04.46:818][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-20.04.48:795][184]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-20.04.51:074][377]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.04.55:611][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Beach_Cliffs_01_Beach_Cliff_22)
+[2019.06.06-20.04.56:525][931]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-20.04.57:536][ 26]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-20.04.57:579][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-20.04.58:524][113]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.05.00:250][299]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin3)
+[2019.06.06-20.05.02:158][493]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.05.15:679][953]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.06.06-20.05.16:624][ 28]LogEditorViewport: Clicking on Actor (LMB): BP_ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.06.06-20.05.29:589][767]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.05.37:406][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.05.39:346][727]LogEditorViewport: Clicking on Actor (LMB): BP_ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.06.06-20.05.46:295][109]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.05.58:675][427]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.06.28:304][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.06.30:640][809]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.06.45:627][393]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin5)
+[2019.06.06-20.06.46:576][493]Cmd: DELETE
+[2019.06.06-20.06.46:576][493]Cmd: ACTOR DELETE
+[2019.06.06-20.06.46:596][493]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.06.06-20.06.46:633][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.06.06-20.06.46:633][493]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2019.06.06-20.07.57:343][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.07.57:412][435]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.07.57:428][435]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.07.57:429][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-20.07.57:429][435]PIE: New page: PIE session: Blockout_04_Landscape (Jun 6, 2019, 6:07:57 AM)
+[2019.06.06-20.07.57:429][435]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape
+[2019.06.06-20.07.57:585][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.155950s)
+[2019.06.06-20.07.57:585][435]LogAIModule: Creating AISystem for world Blockout_04_Landscape
+[2019.06.06-20.07.57:586][435]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2019.06.06-20.07.57:586][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape to /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape (0.156818s)
+[2019.06.06-20.07.57:618][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.06.06-20.07.57:641][435]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-20.07.57:686][435]LogInit: FAudioDevice initialized.
+[2019.06.06-20.07.57:719][435]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.07.57:744][435]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape up for play (max tick rate 0) at 2019.06.06-13.07.57
+[2019.06.06-20.07.57:745][435]LogWorld: Bringing up level for play took: 0.025916
+[2019.06.06-20.07.57:759][435]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape -0.295
+[2019.06.06-20.07.57:759][435]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.08.06:114][429]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.08.06:114][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.08.06:158][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.08.06:158][429]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.08.06:205][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.08.06:216][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.06.06-20.08.06:250][430]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.06.06-20.08.14:366][383]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.06.06-20.08.14:610][397]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-20.08.21:517][834]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.06.06-20.08.24:306][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.08.26:199][248]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.08.26:864][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.08.26:923][317]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.08.26:939][317]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.08.26:940][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-20.08.26:940][317]PIE: New page: PIE session: Blockout_04_Landscape (Jun 6, 2019, 6:08:26 AM)
+[2019.06.06-20.08.26:940][317]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape
+[2019.06.06-20.08.27:096][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.156601s)
+[2019.06.06-20.08.27:097][317]LogAIModule: Creating AISystem for world Blockout_04_Landscape
+[2019.06.06-20.08.27:097][317]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2019.06.06-20.08.27:097][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape to /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape (0.157505s)
+[2019.06.06-20.08.27:130][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.06.06-20.08.27:151][317]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-20.08.27:190][317]LogInit: FAudioDevice initialized.
+[2019.06.06-20.08.27:224][317]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.08.27:251][317]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape up for play (max tick rate 0) at 2019.06.06-13.08.27
+[2019.06.06-20.08.27:252][317]LogWorld: Bringing up level for play took: 0.027734
+[2019.06.06-20.08.27:265][317]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape 1.211
+[2019.06.06-20.08.27:265][317]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.08.58:444][ 46]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.08.58:444][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.08.58:484][ 46]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.08.58:484][ 46]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.08.58:532][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.08.58:541][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.06.06-20.08.58:571][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.06.06-20.14.00:944][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.14.04:245][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.14.07:480][665]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.14.19:163][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.14.19:227][835]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.14.19:243][835]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.14.19:243][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-20.14.19:243][835]PIE: New page: PIE session: Blockout_04_Landscape (Jun 6, 2019, 6:14:19 AM)
+[2019.06.06-20.14.19:243][835]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape
+[2019.06.06-20.14.19:420][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.177818s)
+[2019.06.06-20.14.19:421][835]LogAIModule: Creating AISystem for world Blockout_04_Landscape
+[2019.06.06-20.14.19:421][835]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2019.06.06-20.14.19:421][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape to /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape (0.178706s)
+[2019.06.06-20.14.19:461][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.06.06-20.14.19:485][835]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-20.14.19:543][835]LogInit: FAudioDevice initialized.
+[2019.06.06-20.14.19:577][835]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.14.19:611][835]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape up for play (max tick rate 0) at 2019.06.06-13.14.19
+[2019.06.06-20.14.19:613][835]LogWorld: Bringing up level for play took: 0.035748
+[2019.06.06-20.14.19:627][835]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape -0.427
+[2019.06.06-20.14.19:628][835]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.15.29:608][808]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.15.29:608][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.15.29:648][808]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.15.29:648][808]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.15.29:695][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.15.29:705][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.06.06-20.15.29:721][809]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.06.06-20.15.40:739][908]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin5)
+[2019.06.06-20.15.46:032][425]LogEditorViewport: Clicking on Actor (LMB): BP_ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.06.06-20.15.47:165][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.15.54:470][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.15.57:336][975]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.15.57:357][975]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.15.57:357][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-20.15.57:358][975]PIE: New page: PIE session: Blockout_04_Landscape (Jun 6, 2019, 6:15:57 AM)
+[2019.06.06-20.15.57:358][975]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape
+[2019.06.06-20.15.57:525][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.167366s)
+[2019.06.06-20.15.57:526][975]LogAIModule: Creating AISystem for world Blockout_04_Landscape
+[2019.06.06-20.15.57:526][975]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2019.06.06-20.15.57:526][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape to /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape (0.168094s)
+[2019.06.06-20.15.57:558][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.06.06-20.15.57:580][975]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-20.15.57:630][975]LogInit: FAudioDevice initialized.
+[2019.06.06-20.15.57:657][975]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.15.57:683][975]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape up for play (max tick rate 0) at 2019.06.06-13.15.57
+[2019.06.06-20.15.57:684][975]LogWorld: Bringing up level for play took: 0.026716
+[2019.06.06-20.15.57:698][975]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape -0.357
+[2019.06.06-20.15.57:698][975]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.16.18:106][412]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.16.18:106][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.16.18:150][412]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.16.18:150][412]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.16.18:197][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.16.18:207][412]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.06.06-20.16.18:239][413]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.06.06-20.16.20:891][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.16.24:361][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.16.29:653][491]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.16.30:450][572]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin6)
+[2019.06.06-20.16.30:836][605]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-20.16.35:050][ 29]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.16.42:371][754]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin6)
+[2019.06.06-20.16.43:653][882]Cmd: EDIT COPY
+[2019.06.06-20.16.44:005][918]Cmd: EDIT PASTE
+[2019.06.06-20.16.47:167][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.16.49:826][446]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.17.14:964][292]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-20.17.15:014][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.06.06-20.17.15:016][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_04_Landscape" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Maps/Blockout_04_Landscape_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.06.06-20.17.17:150][292]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_04_Landscape_Auto88F36FFC44152CE4B4E94618F9855133B.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Maps/Blockout_04_Landscape_Auto8.umap'
+[2019.06.06-20.17.17:154][292]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Blockout_04_Landscape' took 2.169
+[2019.06.06-20.17.17:154][292]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.169
+[2019.06.06-20.17.35:158][242]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin7)
+[2019.06.06-20.17.45:625][325]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.18.19:774][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BC_ROCK_19)
+[2019.06.06-20.18.20:167][156]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-20.18.42:798][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.18.45:048][704]LogActorFactory: Actor Factory created Field_Geo_01_Final_Field_Rock_03
+[2019.06.06-20.18.46:063][775]LogActorFactory: Actor Factory created Field_Geo_01_Final_Field_Rock_03
+[2019.06.06-20.18.47:165][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.18.47:255][854]LogActorFactory: Actor Factory created Field_Geo_01_Final_Field_Rock_01
+[2019.06.06-20.18.47:800][897]LogActorFactory: Actor Factory created Field_Geo_01_Final_Field_Rock_01
+[2019.06.06-20.19.04:349][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.19.04:479][591]LogActorFactory: Actor Factory created Field_Geo_01_Final_Field_Rock_02
+[2019.06.06-20.19.05:074][627]LogActorFactory: Actor Factory created Field_Geo_01_Final_Field_Rock_02
+[2019.06.06-20.19.14:353][561]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.06.06-20.19.16:318][723]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.19.19:476][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Field_Geo_01_Final_Field_Rock_02)
+[2019.06.06-20.19.21:625][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.19.21:654][291]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.19.21:672][291]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.19.21:672][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-20.19.21:672][291]PIE: New page: PIE session: Blockout_04_Landscape (Jun 6, 2019, 6:19:21 AM)
+[2019.06.06-20.19.21:672][291]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape
+[2019.06.06-20.19.21:843][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.171427s)
+[2019.06.06-20.19.21:844][291]LogAIModule: Creating AISystem for world Blockout_04_Landscape
+[2019.06.06-20.19.21:844][291]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2019.06.06-20.19.21:844][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape to /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape (0.172400s)
+[2019.06.06-20.19.21:879][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.06.06-20.19.21:898][291]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-20.19.21:943][291]LogInit: FAudioDevice initialized.
+[2019.06.06-20.19.21:975][291]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.19.22:012][291]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape up for play (max tick rate 0) at 2019.06.06-13.19.22
+[2019.06.06-20.19.22:014][291]LogWorld: Bringing up level for play took: 0.037178
+[2019.06.06-20.19.22:026][291]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape -0.028
+[2019.06.06-20.19.22:026][291]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.19.31:374][401]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.19.31:374][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.19.31:415][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.19.31:415][401]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.19.31:452][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.19.31:470][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.06.06-20.19.31:501][402]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.06.06-20.19.32:177][479]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.06.06-20.19.35:348][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.19.36:367][924]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.19.36:384][924]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.19.36:384][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-20.19.36:384][924]PIE: New page: PIE session: Blockout_04_Landscape (Jun 6, 2019, 6:19:36 AM)
+[2019.06.06-20.19.36:384][924]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape
+[2019.06.06-20.19.36:549][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.163906s)
+[2019.06.06-20.19.36:550][924]LogAIModule: Creating AISystem for world Blockout_04_Landscape
+[2019.06.06-20.19.36:550][924]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2019.06.06-20.19.36:550][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape to /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape (0.164631s)
+[2019.06.06-20.19.36:584][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.06.06-20.19.36:602][924]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-20.19.36:650][924]LogInit: FAudioDevice initialized.
+[2019.06.06-20.19.36:679][924]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.19.36:716][924]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape up for play (max tick rate 0) at 2019.06.06-13.19.36
+[2019.06.06-20.19.36:717][924]LogWorld: Bringing up level for play took: 0.037153
+[2019.06.06-20.19.36:730][924]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape 0.675
+[2019.06.06-20.19.36:730][924]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.19.53:042][872]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.19.53:042][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.19.53:083][872]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.19.53:083][872]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.19.53:128][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.19.53:137][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.06.06-20.19.53:176][873]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.06.06-20.19.58:906][523]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.19.59:932][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.20.03:720][ 58]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.20.03:735][ 58]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.20.03:735][ 58]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-20.20.03:735][ 58]PIE: New page: PIE session: Blockout_04_Landscape (Jun 6, 2019, 6:20:03 AM)
+[2019.06.06-20.20.03:735][ 58]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape
+[2019.06.06-20.20.03:889][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.152506s)
+[2019.06.06-20.20.03:889][ 58]LogAIModule: Creating AISystem for world Blockout_04_Landscape
+[2019.06.06-20.20.03:889][ 58]LogPlayLevel: PIE: World Init took: (0.000534s)
+[2019.06.06-20.20.03:890][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape to /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape (0.153185s)
+[2019.06.06-20.20.03:922][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.06.06-20.20.03:945][ 58]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-20.20.03:988][ 58]LogInit: FAudioDevice initialized.
+[2019.06.06-20.20.04:017][ 58]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.20.04:042][ 58]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape up for play (max tick rate 0) at 2019.06.06-13.20.04
+[2019.06.06-20.20.04:043][ 58]LogWorld: Bringing up level for play took: 0.025797
+[2019.06.06-20.20.04:057][ 58]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape 0.003
+[2019.06.06-20.20.04:057][ 58]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.20.09:632][719]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.20.09:633][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.20.09:676][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.20.09:676][719]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.20.09:715][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.20.09:731][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.06.06-20.20.09:763][720]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.06.06-20.20.10:414][794]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin7)
+[2019.06.06-20.20.14:949][265]LogEditorViewport: Clicking on Actor (LMB): BP_ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.06.06-20.20.15:396][286]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-20.20.18:351][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.20.20:792][619]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.20.20:810][619]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.20.20:810][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-20.20.20:811][619]PIE: New page: PIE session: Blockout_04_Landscape (Jun 6, 2019, 6:20:20 AM)
+[2019.06.06-20.20.20:811][619]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape
+[2019.06.06-20.20.20:980][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.169079s)
+[2019.06.06-20.20.20:980][619]LogAIModule: Creating AISystem for world Blockout_04_Landscape
+[2019.06.06-20.20.20:981][619]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2019.06.06-20.20.20:981][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape to /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape (0.169934s)
+[2019.06.06-20.20.21:014][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.06.06-20.20.21:033][619]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-20.20.21:076][619]LogInit: FAudioDevice initialized.
+[2019.06.06-20.20.21:109][619]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.20.21:137][619]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape up for play (max tick rate 0) at 2019.06.06-13.20.21
+[2019.06.06-20.20.21:139][619]LogWorld: Bringing up level for play took: 0.028770
+[2019.06.06-20.20.21:152][619]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape 1.097
+[2019.06.06-20.20.21:152][619]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.20.55:045][672]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.20.55:045][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.20.55:086][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.20.55:086][672]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.20.55:131][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.20.55:140][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.06.06-20.20.55:173][673]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.06.06-20.20.57:212][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.20.57:299][900]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2019.06.06-20.21.03:325][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.21.04:459][357]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-20.21.06:035][417]LogEditorViewport: Clicking on Actor (LMB): BP_ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.06.06-20.21.07:507][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.21.10:410][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.21.18:558][978]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.21.18:574][978]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.21.18:575][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-20.21.18:575][978]PIE: New page: PIE session: Blockout_04_Landscape (Jun 6, 2019, 6:21:18 AM)
+[2019.06.06-20.21.18:575][978]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape
+[2019.06.06-20.21.18:743][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.167431s)
+[2019.06.06-20.21.18:743][978]LogAIModule: Creating AISystem for world Blockout_04_Landscape
+[2019.06.06-20.21.18:744][978]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2019.06.06-20.21.18:744][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape to /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape (0.168388s)
+[2019.06.06-20.21.18:784][978]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.06.06-20.21.18:804][978]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-20.21.18:846][978]LogInit: FAudioDevice initialized.
+[2019.06.06-20.21.18:874][978]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.21.18:902][978]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape up for play (max tick rate 0) at 2019.06.06-13.21.18
+[2019.06.06-20.21.18:904][978]LogWorld: Bringing up level for play took: 0.029364
+[2019.06.06-20.21.18:917][978]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape 0.863
+[2019.06.06-20.21.18:917][978]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.24.00:020][838]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.24.00:020][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.24.00:072][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.24.00:072][838]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.24.00:123][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.24.00:132][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.06.06-20.24.00:219][839]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.06.06-20.24.05:073][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.24.15:481][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.24.15:618][878]LogActorFactory: Actor Factory created PINE_02
+[2019.06.06-20.24.16:233][918]LogActorFactory: Actor Factory created PINE_02
+[2019.06.06-20.24.18:436][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.24.31:678][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.24.31:725][871]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.24.31:740][871]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.24.31:740][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-20.24.31:740][871]PIE: New page: PIE session: Blockout_04_Landscape (Jun 6, 2019, 6:24:31 AM)
+[2019.06.06-20.24.31:741][871]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape
+[2019.06.06-20.24.31:909][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.168524s)
+[2019.06.06-20.24.31:909][871]LogAIModule: Creating AISystem for world Blockout_04_Landscape
+[2019.06.06-20.24.31:910][871]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2019.06.06-20.24.31:910][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape to /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape (0.169418s)
+[2019.06.06-20.24.31:948][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.06.06-20.24.31:971][871]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-20.24.32:017][871]LogInit: FAudioDevice initialized.
+[2019.06.06-20.24.32:043][871]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.24.32:069][871]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape up for play (max tick rate 0) at 2019.06.06-13.24.32
+[2019.06.06-20.24.32:071][871]LogWorld: Bringing up level for play took: 0.027385
+[2019.06.06-20.24.32:084][871]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape 0.03
+[2019.06.06-20.24.32:084][871]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.24.50:654][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.24.50:654][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.24.50:701][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.24.50:702][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.24.50:754][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.24.50:763][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.06.06-20.24.50:847][593]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.06.06-20.25.04:051][577]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.06.06-20.25.17:079][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PINE_3)
+[2019.06.06-20.25.17:436][519]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-20.25.20:498][715]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.25.35:332][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PINE_3)
+[2019.06.06-20.25.38:148][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.25.43:509][204]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.25.44:866][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PINE_3)
+[2019.06.06-20.25.46:084][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.25.53:956][783]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.26.36:712][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PINE_5)
+[2019.06.06-20.26.38:917][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.26.39:607][136]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.06.06-20.26.52:557][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OCEAN)
+[2019.06.06-20.26.57:874][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Field_Boulders_01_Blockout_Field_Boulder_Angled_04)
+[2019.06.06-20.26.58:174][384]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-20.27.03:108][714]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.27.09:137][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Field_Boulders_01_Blockout_Field_Boulder_Angled_04)
+[2019.06.06-20.27.13:132][390]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.27.38:283][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Field_Boulders_01_Blockout_Field_Boulder_Angled_04)
+[2019.06.06-20.27.44:772][612]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.27.48:236][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.27.48:308][853]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-20.27.48:325][853]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.27.48:325][853]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-20.27.48:325][853]PIE: New page: PIE session: Blockout_04_Landscape (Jun 6, 2019, 6:27:48 AM)
+[2019.06.06-20.27.48:325][853]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_04_Landscape
+[2019.06.06-20.27.48:480][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.154081s)
+[2019.06.06-20.27.48:480][853]LogAIModule: Creating AISystem for world Blockout_04_Landscape
+[2019.06.06-20.27.48:480][853]LogPlayLevel: PIE: World Init took: (0.000598s)
+[2019.06.06-20.27.48:480][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape to /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape (0.154852s)
+[2019.06.06-20.27.48:551][853]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2019.06.06-20.27.48:570][853]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-20.27.48:613][853]LogInit: FAudioDevice initialized.
+[2019.06.06-20.27.48:646][853]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-20.27.48:676][853]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_04_Landscape.Blockout_04_Landscape up for play (max tick rate 0) at 2019.06.06-13.27.48
+[2019.06.06-20.27.48:678][853]LogWorld: Bringing up level for play took: 0.030646
+[2019.06.06-20.27.48:690][853]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_04_Landscape 0.636
+[2019.06.06-20.27.48:690][853]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.28.15:290][329]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.28.15:291][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.28.15:335][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-20.28.15:335][329]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape' with GeneratedClass '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape_C' with ClassGeneratedBy '/Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape:PersistentLevel.Blockout_04_Landscape'
+[2019.06.06-20.28.15:391][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-20.28.15:402][329]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.06.06-20.28.15:489][330]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.06.06-20.31.51:584][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.06.06-20.31.51:586][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_04_Landscape" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Maps/Blockout_04_Landscape_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.06.06-20.31.54:011][551]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_04_Landscape_Auto98605FBE741B520397BB22A9F1882DA85.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Maps/Blockout_04_Landscape_Auto9.umap'
+[2019.06.06-20.31.54:014][551]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Blockout_04_Landscape' took 2.480
+[2019.06.06-20.31.54:014][551]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.480
+[2019.06.06-20.38.26:902][523]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin5)
+[2019.06.06-20.38.31:702][900]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-20.38.44:978][948]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.38.52:756][399]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.39.09:010][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.39.41:642][775]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin5)
+[2019.06.06-20.39.55:564][870]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.39.57:686][996]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin5)
+[2019.06.06-20.40.01:451][293]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.40.03:221][421]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.06.06-20.40.04:546][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-20.41.54:231][392]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.06.06-20.41.54:232][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_04_Landscape" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Maps/Blockout_04_Landscape_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.06.06-20.41.56:432][392]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_04_Landscape_Auto0846F2D014F95932E454A2D806014F269.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Maps/Blockout_04_Landscape_Auto0.umap'
+[2019.06.06-20.41.56:436][392]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Blockout_04_Landscape' took 2.247
+[2019.06.06-20.41.56:436][392]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.247
