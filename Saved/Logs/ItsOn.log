@@ -1816,3 +1816,408 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.06-20.41.56:432][392]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_04_Landscape_Auto0846F2D014F95932E454A2D806014F269.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Maps/Blockout_04_Landscape_Auto0.umap'
 [2019.06.06-20.41.56:436][392]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Blockout_04_Landscape' took 2.247
 [2019.06.06-20.41.56:436][392]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.247
+[2019.06.06-22.04.20:489][140]LogRenderer: Reallocating scene render targets to support 1676x1028 Format 9 NumSamples 1 (Frame:20121).
+[2019.06.06-22.05.46:578][391]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-22.05.48:770][583]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2019.06.06-22.06.37:194][127]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2019.06.06-22.06.37:416][127]LogAIModule: Creating AISystem for world Blockout_04_Landscape_2
+[2019.06.06-22.06.37:672][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.06.06-22.06.37:672][128]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Blockout_04_Landscape' took 0.062
+[2019.06.06-22.15.27:211][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.06.06-22.15.27:211][935]LogMetaData: Removing '/Game/Maps/Blockout_05_Landscape_Rescaled.SKEL_Blockout_05_Landscape_Rescaled_C' ref from Metadata '/Game/Maps/Blockout_04_Landscape_2.PackageMetaData'
+[2019.06.06-22.15.27:211][935]LogMetaData: Removing '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled_C' ref from Metadata '/Game/Maps/Blockout_04_Landscape_2.PackageMetaData'
+[2019.06.06-22.15.27:260][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_05_Landscape_Rescaled_BuiltData" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled_BuiltData.uasset" SILENT=true
+[2019.06.06-22.15.27:345][935]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_05_Landscape_Rescaled_B995A2EBE4023789FE9E876B3B27DC86A.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled_BuiltData.uasset'
+[2019.06.06-22.15.27:350][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_05_Landscape_Rescaled" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.06-22.15.27:457][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.06.06-22.15.29:694][935]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_05_Landscape_Rescaled3DA51E1348511A0DDA16A7948EDCFA8F.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled.umap'
+[2019.06.06-22.15.29:731][935]LogFileHelpers: Saving map 'Blockout_05_Landscape_Rescaled' took 2.382
+[2019.06.06-22.15.30:087][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.06.06-22.15.30:119][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.06.06-22.15.30:156][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.06.06-22.15.30:188][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.06.06-22.15.31:304][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.06.06-22.15.32:607][ 46]LogSlate: Window 'Save Content' being destroyed
+[2019.06.06-22.15.32:637][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_04_Landscape" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.06-22.15.32:673][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.06.06-22.15.34:927][ 46]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_04_Landscape0FE244BD4407F83F1FFA9F8B2F19F941.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape.umap'
+[2019.06.06-22.15.34:965][ 46]LogFileHelpers: Saving map 'Blockout_04_Landscape' took 2.329
+[2019.06.06-22.15.34:969][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/ForestBiome/Blockout/default" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Meshes/ForestBiome/Blockout/default.uasset" SILENT=true
+[2019.06.06-22.15.34:979][ 46]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/default881808C04F03289D39C493A2B74453D7.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Meshes/ForestBiome/Blockout/default.uasset'
+[2019.06.06-22.15.34:985][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/ForestBiome/Blockout/lambert1" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Meshes/ForestBiome/Blockout/lambert1.uasset" SILENT=true
+[2019.06.06-22.15.34:995][ 46]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/lambert19A38374542F14E3B0EFC4FA0FDE7DE8B.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Meshes/ForestBiome/Blockout/lambert1.uasset'
+[2019.06.06-22.15.35:001][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/ForestBiome/Blockout/water" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Meshes/ForestBiome/Blockout/water.uasset" SILENT=true
+[2019.06.06-22.15.35:012][ 46]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/water383CA5BB459EE9532DBA5B8F0E0EFB3D.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Meshes/ForestBiome/Blockout/water.uasset'
+[2019.06.06-22.15.36:497][212]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled
+[2019.06.06-22.15.36:533][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.06.06-22.15.36:535][212]Cmd: MAP LOAD FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.06-22.15.36:536][212]LightingResults: New page: Lighting Build
+[2019.06.06-22.15.36:536][212]LoadErrors: New page: Loading map: Blockout_05_Landscape_Rescaled.umap
+[2019.06.06-22.15.36:546][212]MapCheck: New page: Map Check
+[2019.06.06-22.15.36:546][212]LightingResults: New page: Lighting Build
+[2019.06.06-22.15.36:673][212]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.06.06-22.15.36:859][212]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.06-22.15.36:895][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.06.06-22.15.36:917][212]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.06-22.15.36:917][212]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.108ms to complete.
+[2019.06.06-22.15.36:918][212]LogFileHelpers: Loading map 'Blockout_05_Landscape_Rescaled' took 0.385
+[2019.06.06-22.15.42:921][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.15.56:569][455]Cmd: DELETE
+[2019.06.06-22.15.56:569][455]Cmd: ACTOR DELETE
+[2019.06.06-22.15.56:595][455]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.06-22.15.56:595][455]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.06-22.15.56:596][455]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.06-22.15.56:596][455]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.06-22.15.56:596][455]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.06-22.15.56:597][455]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.06.06-22.15.56:597][455]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.06.06-22.15.56:598][455]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.06.06-22.15.56:598][455]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.06.06-22.15.56:598][455]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.06.06-22.15.56:599][455]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.06.06-22.15.56:599][455]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.06.06-22.15.56:633][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.06.06-22.15.56:634][455]LogEditorActor: Deleted 12 Actors (0.064 secs)
+[2019.06.06-22.16.03:249][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.16.05:538][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.16.10:484][382]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-22.16.10:504][382]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled'
+[2019.06.06-22.16.10:504][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-22.16.10:504][382]PIE: New page: PIE session: Blockout_05_Landscape_Rescaled (Jun 6, 2019, 8:16:10 AM)
+[2019.06.06-22.16.10:504][382]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Rescaled
+[2019.06.06-22.16.10:688][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.184485s)
+[2019.06.06-22.16.10:689][382]LogAIModule: Creating AISystem for world Blockout_05_Landscape_Rescaled
+[2019.06.06-22.16.10:689][382]LogPlayLevel: PIE: World Init took: (0.000571s)
+[2019.06.06-22.16.10:689][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled to /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled (0.185281s)
+[2019.06.06-22.16.10:722][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.06.06-22.16.10:743][382]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-22.16.10:792][382]LogInit: FAudioDevice initialized.
+[2019.06.06-22.16.10:821][382]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-22.16.10:851][382]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled up for play (max tick rate 0) at 2019.06.06-15.16.10
+[2019.06.06-22.16.10:852][382]LogWorld: Bringing up level for play took: 0.030437
+[2019.06.06-22.16.10:865][382]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Rescaled 0.81
+[2019.06.06-22.16.10:865][382]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled'
+[2019.06.06-22.16.41:002][958]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled'
+[2019.06.06-22.16.41:002][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-22.16.41:046][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-22.16.41:046][958]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled'
+[2019.06.06-22.16.41:096][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-22.16.41:108][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.06.06-22.16.41:138][959]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.06.06-22.16.47:604][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.16.53:140][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.16.55:516][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.17.33:142][715]Cmd: DELETE
+[2019.06.06-22.17.33:142][715]Cmd: ACTOR DELETE
+[2019.06.06-22.17.33:180][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.06.06-22.17.33:180][715]LogEditorActor: Deleted 0 Actors (0.038 secs)
+[2019.06.06-22.17.33:912][785]Cmd: DELETE
+[2019.06.06-22.17.33:912][785]Cmd: ACTOR DELETE
+[2019.06.06-22.17.33:948][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.06.06-22.17.33:948][785]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2019.06.06-22.17.52:240][411]Cmd: DELETE
+[2019.06.06-22.17.52:240][411]Cmd: ACTOR DELETE
+[2019.06.06-22.17.52:276][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.06.06-22.17.52:276][411]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2019.06.06-22.17.55:038][671]Cmd: DELETE
+[2019.06.06-22.17.55:038][671]Cmd: ACTOR DELETE
+[2019.06.06-22.17.55:075][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.06.06-22.17.55:075][671]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2019.06.06-22.17.56:085][768]Cmd: DELETE
+[2019.06.06-22.17.56:085][768]Cmd: ACTOR DELETE
+[2019.06.06-22.17.56:121][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.06.06-22.17.56:121][768]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2019.06.06-22.18.18:928][143]Cmd: TRANSACTION UNDO
+[2019.06.06-22.18.18:928][143]LogEditorTransaction: Undo Set Scale
+[2019.06.06-22.18.42:741][176]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-22.18.48:844][607]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-22.18.55:811][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.18.59:103][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.19.00:883][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_05_Landscape_Rescaled" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.06-22.19.00:942][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.06.06-22.19.04:192][649]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_05_Landscape_RescaledEFC2491E45D99D98743532A17015DD4B.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled.umap'
+[2019.06.06-22.19.04:229][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_05_Landscape_Rescaled_BuiltData" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled_BuiltData.uasset" SILENT=true
+[2019.06.06-22.19.04:318][649]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_05_Landscape_Rescaled_B3C634ADC481BD8122A000FBEACD23F77.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled_BuiltData.uasset'
+[2019.06.06-22.19.58:954][248]EditorErrors: New page: Actor attachment
+[2019.06.06-22.21.06:544][ 69]EditorErrors: New page: Actor attachment
+[2019.06.06-22.21.13:016][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.21.29:837][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Field_Boulders_01_Blockout_Field_Boulder_Angled_7)
+[2019.06.06-22.21.32:661][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.21.39:539][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.22.11:620][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.22.17:531][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.22.18:694][879]Cmd: TRANSACTION UNDO
+[2019.06.06-22.22.18:694][879]LogEditorTransaction: Undo Set Rotation
+[2019.06.06-22.22.35:142][ 91]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.06.06-22.22.37:484][241]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-22.22.40:368][431]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-22.22.41:346][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Field_Boulders_01_Blockout_Field_Boulder_Angled_19)
+[2019.06.06-22.22.47:516][152]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-22.22.56:870][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Field_Boulders_01_Blockout_Field_Boulder_Angled_15)
+[2019.06.06-22.22.57:012][ 94]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-22.22.58:423][249]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-22.22.59:991][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.23.00:101][427]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-22.23.00:117][427]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled'
+[2019.06.06-22.23.00:118][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-22.23.00:118][427]PIE: New page: PIE session: Blockout_05_Landscape_Rescaled (Jun 6, 2019, 8:23:00 AM)
+[2019.06.06-22.23.00:118][427]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Rescaled
+[2019.06.06-22.23.00:287][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.170136s)
+[2019.06.06-22.23.00:288][427]LogAIModule: Creating AISystem for world Blockout_05_Landscape_Rescaled
+[2019.06.06-22.23.00:288][427]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2019.06.06-22.23.00:288][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled to /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled (0.171093s)
+[2019.06.06-22.23.00:326][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.06.06-22.23.00:353][427]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-22.23.00:405][427]LogInit: FAudioDevice initialized.
+[2019.06.06-22.23.00:437][427]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-22.23.00:469][427]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled up for play (max tick rate 0) at 2019.06.06-15.23.00
+[2019.06.06-22.23.00:471][427]LogWorld: Bringing up level for play took: 0.033617
+[2019.06.06-22.23.00:484][427]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Rescaled 0.43
+[2019.06.06-22.23.00:484][427]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled'
+[2019.06.06-22.23.12:800][887]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled'
+[2019.06.06-22.23.12:800][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-22.23.12:839][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-22.23.12:839][887]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled'
+[2019.06.06-22.23.12:890][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-22.23.12:899][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.06.06-22.23.12:928][888]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.06.06-22.23.17:369][379]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.06.06-22.23.18:913][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.23.27:465][496]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-22.23.34:861][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.23.35:358][360]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-22.24.09:053][880]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-22.24.09:287][895]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-22.24.10:593][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-22.24.20:427][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Field_Boulders_01_Blockout_Field_Boulder_Angled_16)
+[2019.06.06-22.24.35:845][778]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-22.24.58:073][ 59]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.06.06-22.24.58:879][ 59]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.06.06-22.25.22:021][144]LogSlate: Window 'Project Settings' being destroyed
+[2019.06.06-22.25.22:027][144]LogSlate: Window 'Project Settings' being destroyed
+[2019.06.06-22.25.55:005][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Field_Boulders_01_Blockout_Field_Boulder_Angled_16)
+[2019.06.06-22.26.04:614][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Beach_Cliffs_01_Beach_Cliff_4)
+[2019.06.06-22.26.07:544][112]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-22.26.07:552][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_05_Landscape_Rescaled" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.06-22.26.07:637][112]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.06.06-22.26.11:007][112]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_05_Landscape_RescaledD81DD2B44F1B128A312F298600BD78D5.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled.umap'
+[2019.06.06-22.26.11:062][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_05_Landscape_Rescaled_BuiltData" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled_BuiltData.uasset" SILENT=true
+[2019.06.06-22.26.11:152][112]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_05_Landscape_Rescaled_BD1FFF7264E21FB9970F550AC6262E80B.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled_BuiltData.uasset'
+[2019.06.06-22.26.35:639][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.26.37:151][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.26.37:904][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.26.39:346][533]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-22.26.39:410][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Beach_Cliffs_01_Beach_Cliff_4)
+[2019.06.06-22.26.40:267][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.26.43:587][955]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-22.26.43:847][980]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-22.26.43:887][981]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-22.26.44:176][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-22.27.12:383][  8]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.06.06-22.27.16:137][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Field_Boulders_01_Blockout_Field_Boulder_Angled_13)
+[2019.06.06-22.27.18:885][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.27.26:981][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.27.34:637][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.27.41:058][534]EditorErrors: New page: Actor attachment
+[2019.06.06-22.27.47:312][124]EditorErrors: New page: Actor attachment
+[2019.06.06-22.27.50:642][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_05_Landscape_Rescaled" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.06-22.27.50:732][445]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.06.06-22.27.52:880][445]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_05_Landscape_Rescaled126D421D465B70BCAFF077A46ECBC257.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled.umap'
+[2019.06.06-22.27.52:910][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_05_Landscape_Rescaled_BuiltData" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled_BuiltData.uasset" SILENT=true
+[2019.06.06-22.27.52:991][445]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_05_Landscape_Rescaled_B44C808EF4A98FBF7AA43AC999F63CF8C.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled_BuiltData.uasset'
+[2019.06.06-22.28.04:633][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.28.06:379][716]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.06.06-22.28.44:272][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.29.05:357][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.29.14:923][508]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-22.29.14:931][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_05_Landscape_Rescaled" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.06-22.29.14:968][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.06.06-22.29.17:134][508]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_05_Landscape_Rescaled98BDF1A2440EDA39DA00DBB82314A0C0.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled.umap'
+[2019.06.06-22.29.17:176][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_05_Landscape_Rescaled_BuiltData" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled_BuiltData.uasset" SILENT=true
+[2019.06.06-22.29.17:260][508]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_05_Landscape_Rescaled_B40C6015E43F6A37C127711AC6EC57AC3.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled_BuiltData.uasset'
+[2019.06.06-22.29.27:373][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.29.54:650][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.30.55:721][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.30.55:799][668]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.06-22.30.55:814][668]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled'
+[2019.06.06-22.30.55:814][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.06-22.30.55:814][668]PIE: New page: PIE session: Blockout_05_Landscape_Rescaled (Jun 6, 2019, 8:30:55 AM)
+[2019.06.06-22.30.55:814][668]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Rescaled
+[2019.06.06-22.30.55:994][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.179596s)
+[2019.06.06-22.30.55:994][668]LogAIModule: Creating AISystem for world Blockout_05_Landscape_Rescaled
+[2019.06.06-22.30.55:994][668]LogPlayLevel: PIE: World Init took: (0.000625s)
+[2019.06.06-22.30.55:994][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled to /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled (0.180375s)
+[2019.06.06-22.30.56:032][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.06.06-22.30.56:061][668]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.06-22.30.56:114][668]LogInit: FAudioDevice initialized.
+[2019.06.06-22.30.56:142][668]LogLoad: Game class is 'GameModeBase'
+[2019.06.06-22.30.56:170][668]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled up for play (max tick rate 0) at 2019.06.06-15.30.56
+[2019.06.06-22.30.56:170][668]LogWorld: Bringing up level for play took: 0.027761
+[2019.06.06-22.30.56:183][668]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Rescaled 0.129
+[2019.06.06-22.30.56:184][668]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled'
+[2019.06.06-22.31.06:431][866]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled'
+[2019.06.06-22.31.06:432][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-22.31.06:479][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.06-22.31.06:480][866]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled:PersistentLevel.Blockout_05_Landscape_Rescaled'
+[2019.06.06-22.31.06:525][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.06-22.31.06:542][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.06.06-22.31.06:573][867]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.06.06-22.31.08:419][  4]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.06.06-22.31.12:426][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.31.24:852][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.31.24:963][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_05_Landscape_Rescaled" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.06-22.31.25:002][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.06.06-22.31.28:423][648]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_05_Landscape_RescaledCCAE01ED4EA7DE49C1953F92CFB2E035.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled.umap'
+[2019.06.06-22.31.28:476][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_05_Landscape_Rescaled_BuiltData" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled_BuiltData.uasset" SILENT=true
+[2019.06.06-22.31.28:565][648]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_05_Landscape_Rescaled_B214D29364B86744A007A588DF4A41C48.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled_BuiltData.uasset'
+[2019.06.06-22.35.05:466][475]LogAIModule: Creating AISystem for world Blockout_04_Landscape
+[2019.06.06-22.35.05:519][475]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape
+[2019.06.06-22.35.05:557][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.06.06-22.35.05:559][475]Cmd: MAP LOAD FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.06-22.35.05:559][475]LightingResults: New page: Lighting Build
+[2019.06.06-22.35.05:560][475]LoadErrors: New page: Loading map: Blockout_04_Landscape.umap
+[2019.06.06-22.35.05:573][475]MapCheck: New page: Map Check
+[2019.06.06-22.35.05:573][475]LightingResults: New page: Lighting Build
+[2019.06.06-22.35.05:700][475]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2019.06.06-22.35.06:244][475]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.06-22.35.06:278][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.06.06-22.35.06:302][475]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.06-22.35.06:302][475]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2019.06.06-22.35.06:302][475]LogFileHelpers: Loading map 'Blockout_04_Landscape' took 0.745
+[2019.06.06-22.35.31:236][434]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.06.06-22.35.42:457][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.35.43:387][481]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.06.06-22.35.43:633][499]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-22.35.54:618][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Beach_Cliffs_01_Beach_Cliff_25)
+[2019.06.06-22.35.57:026][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.36.25:056][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.36.31:289][966]LogAIModule: Creating AISystem for world Blockout_05_Landscape_Rescaled
+[2019.06.06-22.36.31:336][966]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Blockout_05_Landscape_Rescaled.Blockout_05_Landscape_Rescaled
+[2019.06.06-22.36.31:370][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.06.06-22.36.31:371][966]Cmd: MAP LOAD FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Rescaled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.06-22.36.31:372][966]LightingResults: New page: Lighting Build
+[2019.06.06-22.36.31:372][966]LoadErrors: New page: Loading map: Blockout_05_Landscape_Rescaled.umap
+[2019.06.06-22.36.31:381][966]MapCheck: New page: Map Check
+[2019.06.06-22.36.31:381][966]LightingResults: New page: Lighting Build
+[2019.06.06-22.36.31:502][966]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.06.06-22.36.34:455][966]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.06-22.36.34:490][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.06.06-22.36.34:512][966]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.06-22.36.34:512][966]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.107ms to complete.
+[2019.06.06-22.36.34:512][966]LogFileHelpers: Loading map 'Blockout_05_Landscape_Rescaled' took 3.141
+[2019.06.06-22.36.49:107][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OCEAN)
+[2019.06.06-22.36.51:863][362]Cmd: TRANSACTION UNDO
+[2019.06.06-22.36.51:863][362]LogEditorTransaction: Undo Clicking on Actors
+[2019.06.06-22.36.52:593][427]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (OCEAN)
+[2019.06.06-22.36.52:660][427]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-22.36.53:606][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OCEAN)
+[2019.06.06-22.36.54:093][541]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-22.36.56:844][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.36.57:021][835]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-22.36.59:799][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.37.01:758][298]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.06.06-22.37.02:121][335]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-22.37.05:355][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.37.12:842][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.37.17:656][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OCEAN)
+[2019.06.06-22.37.29:395][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.38.11:406][ 47]Cmd: TRANSACTION UNDO
+[2019.06.06-22.38.11:406][ 47]LogEditorTransaction: Undo Move Actors
+[2019.06.06-22.39.00:923][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.39.14:962][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.39.47:876][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OCEAN)
+[2019.06.06-22.39.49:509][ 51]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.06.06-22.46.25:702][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.06.06-22.46.29:661][879]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_05_Landscape_Rescaled_A5732D5754764E6B39A7E2590C5A50DA7.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Autosaves/Game/Maps/Blockout_05_Landscape_Rescaled_Auto1.umap'
+[2019.06.06-22.46.29:665][879]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Blockout_05_Landscape_Rescaled' took 4.038
+[2019.06.06-22.46.29:665][879]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.038
+[2019.06.06-22.48.09:494][178]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-22.48.22:583][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.48.29:919][ 27]LogAIModule: Creating AISystem for world Blockout_04_Landscape
+[2019.06.06-22.48.30:007][ 27]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Blockout_04_Landscape.Blockout_04_Landscape
+[2019.06.06-22.48.30:047][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.06.06-22.48.33:575][ 27]LogSlate: Window 'Save Content' being destroyed
+[2019.06.06-22.48.33:581][ 27]Cmd: MAP LOAD FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.06-22.48.33:583][ 27]LightingResults: New page: Lighting Build
+[2019.06.06-22.48.33:597][ 27]LoadErrors: New page: Loading map: Blockout_04_Landscape.umap
+[2019.06.06-22.48.33:611][ 27]MapCheck: New page: Map Check
+[2019.06.06-22.48.33:611][ 27]LightingResults: New page: Lighting Build
+[2019.06.06-22.48.33:734][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.06.06-22.48.34:658][ 27]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.06-22.48.34:708][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.06.06-22.48.34:730][ 27]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.06-22.48.34:730][ 27]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2019.06.06-22.48.34:730][ 27]LogFileHelpers: Loading map 'Blockout_04_Landscape' took 1.150
+[2019.06.06-22.48.44:632][326]LogAIModule: Creating AISystem for world Blockout_05_Landscape_Rescaled
+[2019.06.06-22.48.44:696][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.06.06-22.48.59:242][326]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.06-22.48.59:534][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.06.06-22.48.59:572][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.06.06-22.48.59:606][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.06.06-22.48.59:639][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.06.06-22.49.47:493][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.06.06-22.49.47:671][768]LogAIModule: Creating AISystem for world Blockout_04_Landscape_2
+[2019.06.06-22.49.47:796][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (48.144 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.06-22.51.47:493][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.06.06-22.51.47:494][973]LogMetaData: Removing '/Game/Maps/Blockout_04_Landscape_Resized.SKEL_Blockout_04_Landscape_Resized_C' ref from Metadata '/Game/Maps/Blockout_04_Landscape_2.PackageMetaData'
+[2019.06.06-22.51.47:494][973]LogMetaData: Removing '/Game/Maps/Blockout_04_Landscape_Resized.Blockout_04_Landscape_Resized_C' ref from Metadata '/Game/Maps/Blockout_04_Landscape_2.PackageMetaData'
+[2019.06.06-22.51.47:529][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_04_Landscape_Resized_BuiltData" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape_Resized_BuiltData.uasset" SILENT=true
+[2019.06.06-22.51.47:607][973]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_04_Landscape_Resized_BuD6C227D544AA63791C68DFAAD323CF95.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape_Resized_BuiltData.uasset'
+[2019.06.06-22.51.47:613][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_04_Landscape_Resized" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape_Resized.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.06-22.51.47:713][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.06.06-22.51.50:479][973]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_04_Landscape_Resized8A61458049B2380ABAECC7BBC86A83F3.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape_Resized.umap'
+[2019.06.06-22.51.50:516][973]LogFileHelpers: Saving map 'Blockout_04_Landscape_Resized' took 2.904
+[2019.06.06-22.51.50:879][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.06.06-22.51.50:909][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.06.06-22.51.50:943][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.06.06-22.51.50:975][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.06.06-22.53.44:973][788]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.06.06-22.53.45:326][822]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-22.53.49:413][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.53.51:634][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.54.00:498][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.54.00:621][278]LogActorFactory: Actor Factory created Cube
+[2019.06.06-22.54.01:463][359]LogActorFactory: Actor Factory created Cube
+[2019.06.06-22.54.03:066][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.54.22:720][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.06.06-22.54.25:141][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.54.51:611][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.54.54:950][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.06.06-22.54.55:537][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.06.06-22.54.58:187][667]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-22.55.00:403][876]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-22.55.00:562][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-22.55.00:680][903]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-22.55.08:576][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.55.12:439][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.06.06-22.55.15:479][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.55.18:498][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-22.55.33:130][748]Cmd: EDIT COPY
+[2019.06.06-22.55.33:458][758]Cmd: EDIT PASTE
+[2019.06.06-22.55.42:044][958]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-22.55.55:404][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-23.00.57:816][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-23.01.17:212][705]EditorErrors: New page: Actor attachment
+[2019.06.06-23.01.18:029][772]Cmd: TRANSACTION UNDO
+[2019.06.06-23.01.18:029][772]LogEditorTransaction: Undo Attach actors
+[2019.06.06-23.01.19:816][905]Cmd: EDIT COPY
+[2019.06.06-23.01.20:145][930]Cmd: EDIT PASTE
+[2019.06.06-23.01.22:000][ 80]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-23.01.33:633][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-23.01.46:225][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-23.02.07:169][244]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.06-23.02.19:941][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-23.02.28:728][476]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-23.02.28:734][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_04_Landscape" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.06-23.02.28:771][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.06.06-23.02.31:308][476]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_04_Landscape3C3D7171452641C5757508B3A67AD9B0.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape.umap'
+[2019.06.06-23.02.31:341][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_04_Landscape_BuiltData" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape_BuiltData.uasset" SILENT=true
+[2019.06.06-23.02.31:461][476]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_04_Landscape_BuiltData6C2BEABA409963B79BBC9490E5223D7C.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape_BuiltData.uasset'
+[2019.06.06-23.02.51:153][677]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.06-23.02.51:159][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_04_Landscape" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.06-23.02.51:194][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.06.06-23.02.53:760][677]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_04_LandscapeEC6CF94D4CEAF4DE93D387AA29300BAC.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape.umap'
+[2019.06.06-23.02.53:795][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_04_Landscape_BuiltData" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape_BuiltData.uasset" SILENT=true
+[2019.06.06-23.02.53:877][677]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_04_Landscape_BuiltData1DFD296B49DD3E861409BAB083B5EACE.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_04_Landscape_BuiltData.uasset'
+[2019.06.06-23.02.55:449][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.06-23.02.55:903][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
