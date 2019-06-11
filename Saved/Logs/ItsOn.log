@@ -2372,3 +2372,398 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.11-01.10.07:002][106]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/BLKF6A2C5BA405DB1FA5828A188FB9B3751.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Textures/Utility/BLK.uasset'
 [2019.06.11-01.10.07:012][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Utility/VertexMap" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Textures/Utility/VertexMap.uasset" SILENT=true
 [2019.06.11-01.10.07:033][106]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/VertexMap74B055F448F6E96DB13DED8BA8F18A80.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Textures/Utility/VertexMap.uasset'
+[2019.06.11-01.11.11:347][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.11.14:525][663]LogTexture: Display: Building textures: Texture2D_1021 (BGRA8, 64X64)
+[2019.06.11-01.11.14:525][663]LogTexture: Display: Building textures: Texture2D_1019 (BGRA8, 64X64)
+[2019.06.11-01.11.14:525][663]LogTexture: Display: Building textures: Texture2D_1023 (BGRA8, 64X64)
+[2019.06.11-01.11.14:525][663]LogTexture: Display: Building textures: Texture2D_1055 (BGRA8, 64X64)
+[2019.06.11-01.11.14:525][663]LogTexture: Display: Building textures: Texture2D_1128 (BGRA8, 512X512)
+[2019.06.11-01.11.14:525][663]LogTexture: Display: Building textures: Texture2D_1119 (BGRA8, 512X512)
+[2019.06.11-01.11.14:525][663]LogTexture: Display: Building textures: Texture2D_904 (BGRA8, 64X64)
+[2019.06.11-01.11.14:525][663]LogTexture: Display: Building textures: Texture2D_943 (BGRA8, 64X64)
+[2019.06.11-01.11.14:525][663]LogTexture: Display: Building textures: Texture2D_945 (BGRA8, 64X64)
+[2019.06.11-01.11.14:525][663]LogTexture: Display: Building textures: Texture2D_947 (BGRA8, 64X64)
+[2019.06.11-01.11.14:525][663]LogTexture: Display: Building textures: Texture2D_983 (BGRA8, 64X64)
+[2019.06.11-01.11.14:525][663]LogTexture: Display: Building textures: Texture2D_985 (BGRA8, 64X64)
+[2019.06.11-01.11.14:525][663]LogTexture: Display: Building textures: Texture2D_987 (BGRA8, 64X64)
+[2019.06.11-01.11.14:525][663]LogStaticMesh: Building static mesh Grass_Base_01...
+[2019.06.11-01.11.14:565][663]LogStaticMesh: Built static mesh [0.04s] /Game/Meshes/ForestBiome/grass/Grass_Base_01.Grass_Base_01
+[2019.06.11-01.11.14:571][663]LogStaticMesh: Building static mesh Grass_Medium_01...
+[2019.06.11-01.11.14:599][663]LogStaticMesh: Built static mesh [0.03s] /Game/Meshes/ForestBiome/grass/Grass_Medium_01.Grass_Medium_01
+[2019.06.11-01.11.20:081][663]LogAIModule: Creating AISystem for world Blockout_05_Landscape_Resized
+[2019.06.11-01.11.20:138][663]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized
+[2019.06.11-01.11.20:171][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.06.11-01.11.20:173][663]Cmd: MAP LOAD FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Resized.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.11-01.11.20:173][663]LightingResults: New page: Lighting Build
+[2019.06.11-01.11.20:173][663]LoadErrors: New page: Loading map: Blockout_05_Landscape_Resized.umap
+[2019.06.11-01.11.20:175][663]MapCheck: New page: Map Check
+[2019.06.11-01.11.20:175][663]LightingResults: New page: Lighting Build
+[2019.06.11-01.11.20:217][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.06.11-01.11.38:141][663]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.11-01.11.38:175][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.06.11-01.11.38:205][663]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.11-01.11.38:205][663]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.139ms to complete.
+[2019.06.11-01.11.38:205][663]LogFileHelpers: Loading map 'Blockout_05_Landscape_Resized' took 18.034
+[2019.06.11-01.11.57:391][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.11.57:470][608]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.11-01.11.57:487][608]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.11.57:487][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.11-01.11.57:487][608]PIE: New page: PIE session: Blockout_05_Landscape_Resized (Jun 10, 2019, 11:11:57 AM)
+[2019.06.11-01.11.57:487][608]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized
+[2019.06.11-01.11.57:703][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.216370s)
+[2019.06.11-01.11.57:703][608]LogAIModule: Creating AISystem for world Blockout_05_Landscape_Resized
+[2019.06.11-01.11.57:703][608]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2019.06.11-01.11.57:703][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized to /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized (0.217241s)
+[2019.06.11-01.11.57:736][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.06.11-01.11.57:765][608]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.11-01.11.57:810][608]LogInit: FAudioDevice initialized.
+[2019.06.11-01.11.57:839][608]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2019.06.11-01.11.57:839][608]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2019.06.11-01.11.57:839][608]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2019.06.11-01.11.57:839][608]LogLoad: Game class is 'GameModeBase'
+[2019.06.11-01.11.57:872][608]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized up for play (max tick rate 0) at 2019.06.10-18.11.57
+[2019.06.11-01.11.57:873][608]LogWorld: Bringing up level for play took: 0.033252
+[2019.06.11-01.11.57:886][608]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized 0.854
+[2019.06.11-01.11.57:887][608]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.11.57:911][609]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.095779 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2019.06.11-01.12.19:982][ 76]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.12.19:983][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-01.12.20:038][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.11-01.12.20:038][ 76]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.12.20:086][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-01.12.20:093][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.06.11-01.12.20:130][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.06.11-01.12.26:301][391]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.06.11-01.12.28:551][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.12.45:142][858]LogActorFactory: Actor Factory created GrassTests_01_GrassTest_02
+[2019.06.11-01.12.53:245][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.12.54:402][663]LogActorFactory: Actor Factory created GrassTests_01_GrassTest_02
+[2019.06.11-01.12.57:715][994]Cmd: TRANSACTION UNDO
+[2019.06.11-01.12.57:715][994]LogEditorTransaction: Undo Edit Mesh
+[2019.06.11-01.12.59:909][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.13.00:066][174]LogActorFactory: Actor Factory created GrassTests_01_GrassTest_02
+[2019.06.11-01.13.02:254][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.13.12:152][146]LogActorFactory: Actor Factory created GrassTests_01_GrassTest_02
+[2019.06.11-01.13.12:939][209]LogActorFactory: Actor Factory created GrassTests_01_GrassTest_02
+[2019.06.11-01.13.13:429][254]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.11-01.13.15:276][396]LogActorFactory: Actor Factory created GrassTests_01_GrassTest_02
+[2019.06.11-01.13.16:615][521]LogActorFactory: Actor Factory created GrassTests_01_GrassTest_02
+[2019.06.11-01.13.17:067][565]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.11-01.13.19:249][736]LogActorFactory: Actor Factory created GrassTests_01_GrassTest_02
+[2019.06.11-01.13.21:176][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.13.25:955][256]LogActorFactory: Actor Factory created GrassTests_01_GrassTest_02
+[2019.06.11-01.13.27:416][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.13.28:414][452]LogActorFactory: Actor Factory created GrassTests_01_GrassTest_02
+[2019.06.11-01.13.29:838][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.13.30:547][628]LogActorFactory: Actor Factory created GrassTests_01_GrassTest_02
+[2019.06.11-01.13.31:231][691]LogActorFactory: Actor Factory created GrassTests_01_GrassTest_02
+[2019.06.11-01.13.31:569][723]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.11-01.13.35:890][ 55]LogActorFactory: Actor Factory created GrassTests_01_GrassTest_02
+[2019.06.11-01.13.37:950][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.13.38:073][228]LogActorFactory: Actor Factory created GrassTests_01_GrassTest_01
+[2019.06.11-01.13.39:063][316]LogActorFactory: Actor Factory created GrassTests_01_GrassTest_01
+[2019.06.11-01.13.39:710][376]LogActorFactory: Actor Factory created GrassTests_01_GrassTest_01
+[2019.06.11-01.13.41:346][544]Cmd: TRANSACTION UNDO
+[2019.06.11-01.13.41:346][544]LogEditorTransaction: Undo Edit Mesh
+[2019.06.11-01.13.41:875][582]Cmd: TRANSACTION UNDO
+[2019.06.11-01.13.41:875][582]LogEditorTransaction: Undo Edit Mesh
+[2019.06.11-01.13.44:165][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.13.45:878][935]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2019.06.11-01.13.45:919][935]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.11-01.13.52:159][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.13.52:215][565]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.11-01.13.52:233][565]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.13.52:233][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.11-01.13.52:233][565]PIE: New page: PIE session: Blockout_05_Landscape_Resized (Jun 10, 2019, 11:13:52 AM)
+[2019.06.11-01.13.52:233][565]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized
+[2019.06.11-01.13.52:462][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.228270s)
+[2019.06.11-01.13.52:462][565]LogAIModule: Creating AISystem for world Blockout_05_Landscape_Resized
+[2019.06.11-01.13.52:462][565]LogPlayLevel: PIE: World Init took: (0.000579s)
+[2019.06.11-01.13.52:462][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized to /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized (0.229005s)
+[2019.06.11-01.13.52:496][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.06.11-01.13.52:522][565]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.11-01.13.52:568][565]LogInit: FAudioDevice initialized.
+[2019.06.11-01.13.52:596][565]LogLoad: Game class is 'GameModeBase'
+[2019.06.11-01.13.52:625][565]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized up for play (max tick rate 0) at 2019.06.10-18.13.52
+[2019.06.11-01.13.52:626][565]LogWorld: Bringing up level for play took: 0.030254
+[2019.06.11-01.13.52:640][565]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized -0.392
+[2019.06.11-01.13.52:640][565]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.13.52:661][566]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.094737 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2019.06.11-01.14.25:035][262]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.14.25:036][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-01.14.25:083][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.11-01.14.25:084][262]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.14.25:133][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-01.14.25:141][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.06.11-01.14.25:179][263]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.06.11-01.14.34:958][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.14.35:122][322]LogActorFactory: Actor Factory created GrassTests_01_GrassTest_02
+[2019.06.11-01.14.35:567][371]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.11-01.14.37:081][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.14.40:483][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.14.44:233][260]Cmd: TRANSACTION UNDO
+[2019.06.11-01.14.44:233][260]LogEditorTransaction: Undo Foliage Editing
+[2019.06.11-01.14.46:455][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.14.56:873][358]Cmd: TRANSACTION UNDO
+[2019.06.11-01.14.56:873][358]LogEditorTransaction: Undo Foliage Editing
+[2019.06.11-01.14.57:780][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.14.58:474][468]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Meshes/ForestBiome/grass/GrassTests_01_GrassTest_02.GrassTests_01_GrassTest_02
+[2019.06.11-01.15.03:533][824]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Instances/FieldAssets_Grass_Inst_Trapezoid.FieldAssets_Grass_Inst_Trapezoid
+[2019.06.11-01.15.08:207][183]LogSlate: Window 'Color Picker' being destroyed
+[2019.06.11-01.15.11:591][486]Cmd: TRANSACTION UNDO
+[2019.06.11-01.15.11:591][486]LogEditorTransaction: Undo Foliage Editing
+[2019.06.11-01.15.12:541][542]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.11-01.15.19:897][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.15.19:956][143]LogSlate: Window 'Color Picker' being destroyed
+[2019.06.11-01.15.23:083][411]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-01.15.34:417][278]Cmd: TRANSACTION UNDO
+[2019.06.11-01.15.34:417][278]LogEditorTransaction: Undo Edit Shading Model
+[2019.06.11-01.15.35:504][351]Cmd: TRANSACTION UNDO
+[2019.06.11-01.15.35:504][351]LogEditorTransaction: Undo Shading Model Edit Condition Changed
+[2019.06.11-01.15.36:346][410]Cmd: TRANSACTION UNDO
+[2019.06.11-01.15.36:346][410]LogEditorTransaction: Undo Foliage Editing
+[2019.06.11-01.16.09:812][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.16.09:880][912]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.11-01.16.09:898][912]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.16.09:898][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.11-01.16.09:898][912]PIE: New page: PIE session: Blockout_05_Landscape_Resized (Jun 10, 2019, 11:16:09 AM)
+[2019.06.11-01.16.09:898][912]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized
+[2019.06.11-01.16.10:111][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.212389s)
+[2019.06.11-01.16.10:111][912]LogAIModule: Creating AISystem for world Blockout_05_Landscape_Resized
+[2019.06.11-01.16.10:111][912]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2019.06.11-01.16.10:111][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized to /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized (0.213280s)
+[2019.06.11-01.16.10:145][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.06.11-01.16.10:172][912]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.11-01.16.10:220][912]LogInit: FAudioDevice initialized.
+[2019.06.11-01.16.10:252][912]LogLoad: Game class is 'GameModeBase'
+[2019.06.11-01.16.10:285][912]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized up for play (max tick rate 0) at 2019.06.10-18.16.10
+[2019.06.11-01.16.10:286][912]LogWorld: Bringing up level for play took: 0.033322
+[2019.06.11-01.16.10:300][912]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized 1.269
+[2019.06.11-01.16.10:300][912]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.16.10:356][913]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.097190 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2019.06.11-01.16.19:696][822]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.16.19:697][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-01.16.19:741][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.11-01.16.19:742][822]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.16.19:791][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-01.16.19:799][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.06.11-01.16.19:839][823]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.06.11-01.16.21:843][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.16.32:247][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.16.39:810][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.16.46:220][919]Cmd: TRANSACTION UNDO
+[2019.06.11-01.16.46:220][919]LogEditorTransaction: Undo Foliage Editing
+[2019.06.11-01.16.47:241][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.17.00:574][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.17.14:994][163]Cmd: TRANSACTION UNDO
+[2019.06.11-01.17.14:994][163]LogEditorTransaction: Undo Foliage Editing
+[2019.06.11-01.17.28:619][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.17.28:684][159]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.11-01.17.28:700][159]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.17.28:700][159]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.11-01.17.28:700][159]PIE: New page: PIE session: Blockout_05_Landscape_Resized (Jun 10, 2019, 11:17:28 AM)
+[2019.06.11-01.17.28:700][159]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized
+[2019.06.11-01.17.28:919][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.218927s)
+[2019.06.11-01.17.28:920][159]LogAIModule: Creating AISystem for world Blockout_05_Landscape_Resized
+[2019.06.11-01.17.28:920][159]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2019.06.11-01.17.28:920][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized to /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized (0.219780s)
+[2019.06.11-01.17.28:953][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.06.11-01.17.28:980][159]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.11-01.17.29:029][159]LogInit: FAudioDevice initialized.
+[2019.06.11-01.17.29:059][159]LogLoad: Game class is 'GameModeBase'
+[2019.06.11-01.17.29:091][159]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized up for play (max tick rate 0) at 2019.06.10-18.17.29
+[2019.06.11-01.17.29:092][159]LogWorld: Bringing up level for play took: 0.031511
+[2019.06.11-01.17.29:105][159]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized 0.074
+[2019.06.11-01.17.29:105][159]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.17.29:166][160]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.097240 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2019.06.11-01.17.51:706][313]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.17.51:706][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-01.17.51:747][313]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.11-01.17.51:747][313]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.17.51:797][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-01.17.51:805][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.06.11-01.17.51:842][314]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.06.11-01.17.53:691][472]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.11-01.17.57:173][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.17.57:230][782]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.11-01.17.57:244][782]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.17.57:244][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.11-01.17.57:244][782]PIE: New page: PIE session: Blockout_05_Landscape_Resized (Jun 10, 2019, 11:17:57 AM)
+[2019.06.11-01.17.57:244][782]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized
+[2019.06.11-01.17.57:445][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.200969s)
+[2019.06.11-01.17.57:445][782]LogAIModule: Creating AISystem for world Blockout_05_Landscape_Resized
+[2019.06.11-01.17.57:445][782]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2019.06.11-01.17.57:446][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized to /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized (0.201769s)
+[2019.06.11-01.17.57:478][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.06.11-01.17.57:508][782]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.11-01.17.57:556][782]LogInit: FAudioDevice initialized.
+[2019.06.11-01.17.57:587][782]LogLoad: Game class is 'GameModeBase'
+[2019.06.11-01.17.57:618][782]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized up for play (max tick rate 0) at 2019.06.10-18.17.57
+[2019.06.11-01.17.57:619][782]LogWorld: Bringing up level for play took: 0.031486
+[2019.06.11-01.17.57:633][782]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized 0.602
+[2019.06.11-01.17.57:633][782]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.17.57:691][783]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.096906 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2019.06.11-01.18.05:161][493]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.18.05:162][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-01.18.05:203][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.11-01.18.05:204][493]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.18.05:249][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-01.18.05:260][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.06.11-01.18.05:298][494]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.06.11-01.18.08:022][727]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.11-01.18.18:603][458]LogSlate: Window 'Color Picker' being destroyed
+[2019.06.11-01.18.19:770][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Instances/FieldAssets_Grass_Inst_Trapezoid" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Materials/Instances/FieldAssets_Grass_Inst_Trapezoid.uasset" SILENT=true
+[2019.06.11-01.18.19:803][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.06.11-01.18.19:807][552]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.11-01.18.20:116][552]TextureStreamingBuild: Display: Compiling optional shaders took 0.313 seconds.
+[2019.06.11-01.18.20:148][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.06.11-01.18.20:166][552]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/FieldAssets_Grass_Inst_Trapezoid49A8FF88497682F4450AEC8BE3AC4F7A.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Materials/Instances/FieldAssets_Grass_Inst_Trapezoid.uasset'
+[2019.06.11-01.18.21:227][640]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.11-01.18.21:240][640]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.18.21:240][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.11-01.18.21:241][640]PIE: New page: PIE session: Blockout_05_Landscape_Resized (Jun 10, 2019, 11:18:21 AM)
+[2019.06.11-01.18.21:241][640]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized
+[2019.06.11-01.18.21:444][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.202433s)
+[2019.06.11-01.18.21:444][640]LogAIModule: Creating AISystem for world Blockout_05_Landscape_Resized
+[2019.06.11-01.18.21:444][640]LogPlayLevel: PIE: World Init took: (0.000542s)
+[2019.06.11-01.18.21:444][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized to /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized (0.203167s)
+[2019.06.11-01.18.21:476][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.06.11-01.18.21:504][640]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.11-01.18.21:550][640]LogInit: FAudioDevice initialized.
+[2019.06.11-01.18.21:580][640]LogLoad: Game class is 'GameModeBase'
+[2019.06.11-01.18.21:610][640]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized up for play (max tick rate 0) at 2019.06.10-18.18.21
+[2019.06.11-01.18.21:611][640]LogWorld: Bringing up level for play took: 0.030249
+[2019.06.11-01.18.21:625][640]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized 0.593
+[2019.06.11-01.18.21:625][640]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.18.21:688][641]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.095364 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2019.06.11-01.18.50:787][429]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.18.50:787][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-01.18.50:831][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.11-01.18.50:831][429]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.18.50:879][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-01.18.50:889][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.06.11-01.18.50:927][430]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.06.11-01.18.52:564][570]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.11-01.18.57:809][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.18.57:868][ 40]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.11-01.18.57:884][ 40]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.18.57:884][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.11-01.18.57:884][ 40]PIE: New page: PIE session: Blockout_05_Landscape_Resized (Jun 10, 2019, 11:18:57 AM)
+[2019.06.11-01.18.57:884][ 40]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized
+[2019.06.11-01.18.58:099][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.215510s)
+[2019.06.11-01.18.58:100][ 40]LogAIModule: Creating AISystem for world Blockout_05_Landscape_Resized
+[2019.06.11-01.18.58:100][ 40]LogPlayLevel: PIE: World Init took: (0.000568s)
+[2019.06.11-01.18.58:100][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized to /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized (0.216241s)
+[2019.06.11-01.18.58:134][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.06.11-01.18.58:164][ 40]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.11-01.18.58:211][ 40]LogInit: FAudioDevice initialized.
+[2019.06.11-01.18.58:240][ 40]LogLoad: Game class is 'GameModeBase'
+[2019.06.11-01.18.58:278][ 40]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized up for play (max tick rate 0) at 2019.06.10-18.18.58
+[2019.06.11-01.18.58:279][ 40]LogWorld: Bringing up level for play took: 0.037134
+[2019.06.11-01.18.58:292][ 40]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized 1.26
+[2019.06.11-01.18.58:292][ 40]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.18.58:347][ 41]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.096162 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2019.06.11-01.19.17:954][884]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.19.17:954][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-01.19.18:000][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.11-01.19.18:001][884]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.19.18:047][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-01.19.18:057][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.06.11-01.19.18:094][885]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.06.11-01.19.22:317][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.19.26:116][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.19.37:993][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.19.41:641][691]Cmd: TRANSACTION UNDO
+[2019.06.11-01.19.41:641][691]LogEditorTransaction: Undo Foliage Editing
+[2019.06.11-01.19.43:827][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.19.52:681][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.20.09:160][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.20.16:687][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.20.24:842][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.20.24:911][963]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2019.06.11-01.20.36:195][863]Cmd: TRANSACTION UNDO
+[2019.06.11-01.20.36:195][863]LogEditorTransaction: Undo Foliage Editing
+[2019.06.11-01.20.38:290][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.20.46:394][630]Cmd: TRANSACTION UNDO
+[2019.06.11-01.20.46:394][630]LogEditorTransaction: Undo Foliage Editing
+[2019.06.11-01.20.47:710][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.20.51:679][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.20.54:192][218]Cmd: TRANSACTION UNDO
+[2019.06.11-01.20.54:192][218]LogEditorTransaction: Undo Foliage Editing
+[2019.06.11-01.20.55:359][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.21.01:039][755]Cmd: TRANSACTION UNDO
+[2019.06.11-01.21.01:039][755]LogEditorTransaction: Undo Foliage Editing
+[2019.06.11-01.21.02:129][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.21.06:273][ 89]Cmd: TRANSACTION UNDO
+[2019.06.11-01.21.06:273][ 89]LogEditorTransaction: Undo Foliage Editing
+[2019.06.11-01.21.18:835][935]Cmd: TRANSACTION UNDO
+[2019.06.11-01.21.18:835][935]LogEditorTransaction: Undo Foliage Editing
+[2019.06.11-01.21.31:409][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.21.40:663][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.21.40:717][566]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.11-01.21.40:732][566]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.21.40:732][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.11-01.21.40:732][566]PIE: New page: PIE session: Blockout_05_Landscape_Resized (Jun 10, 2019, 11:21:40 AM)
+[2019.06.11-01.21.40:732][566]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized
+[2019.06.11-01.21.40:939][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.206707s)
+[2019.06.11-01.21.40:939][566]LogAIModule: Creating AISystem for world Blockout_05_Landscape_Resized
+[2019.06.11-01.21.40:940][566]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2019.06.11-01.21.40:940][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized to /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized (0.207640s)
+[2019.06.11-01.21.40:970][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2019.06.11-01.21.40:998][566]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.11-01.21.41:047][566]LogInit: FAudioDevice initialized.
+[2019.06.11-01.21.41:079][566]LogLoad: Game class is 'GameModeBase'
+[2019.06.11-01.21.41:111][566]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized up for play (max tick rate 0) at 2019.06.10-18.21.41
+[2019.06.11-01.21.41:112][566]LogWorld: Bringing up level for play took: 0.033096
+[2019.06.11-01.21.41:125][566]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized 0.094
+[2019.06.11-01.21.41:125][566]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.21.41:185][567]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.096201 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2019.06.11-01.22.03:090][584]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.22.03:090][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-01.22.03:131][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.11-01.22.03:132][584]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.22.03:180][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-01.22.03:189][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.06.11-01.22.03:227][585]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2019.06.11-01.22.05:101][745]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.11-01.22.11:419][186]LogSlate: Window 'Color Picker' being destroyed
+[2019.06.11-01.22.18:761][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.22.18:841][826]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.11-01.22.18:856][826]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.22.18:856][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.11-01.22.18:856][826]PIE: New page: PIE session: Blockout_05_Landscape_Resized (Jun 10, 2019, 11:22:18 AM)
+[2019.06.11-01.22.18:856][826]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized
+[2019.06.11-01.22.19:064][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.207971s)
+[2019.06.11-01.22.19:065][826]LogAIModule: Creating AISystem for world Blockout_05_Landscape_Resized
+[2019.06.11-01.22.19:065][826]LogPlayLevel: PIE: World Init took: (0.000570s)
+[2019.06.11-01.22.19:065][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized to /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized (0.208743s)
+[2019.06.11-01.22.19:099][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.06.11-01.22.19:124][826]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.11-01.22.19:173][826]LogInit: FAudioDevice initialized.
+[2019.06.11-01.22.19:199][826]LogLoad: Game class is 'GameModeBase'
+[2019.06.11-01.22.19:230][826]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized up for play (max tick rate 0) at 2019.06.10-18.22.19
+[2019.06.11-01.22.19:231][826]LogWorld: Bringing up level for play took: 0.031520
+[2019.06.11-01.22.19:244][826]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized 0.213
+[2019.06.11-01.22.19:244][826]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.22.19:301][827]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.098216 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2019.06.11-01.22.26:665][514]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.22.26:665][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-01.22.26:709][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.11-01.22.26:710][514]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-01.22.26:755][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-01.22.26:766][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.06.11-01.22.26:805][515]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2019.06.11-01.23.24:889][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-01.23.24:985][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.06.11-01.23.26:156][  3]LogSlate: Window 'Save Content' being destroyed
+[2019.06.11-01.23.26:184][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_05_Landscape_Resized" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Resized.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.11-01.23.26:218][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.06.11-01.23.28:747][  3]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_05_Landscape_Resized442DEDAF4F03A95832C01BBB0F2A98BE.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Resized.umap'
+[2019.06.11-01.23.28:782][  3]LogFileHelpers: Saving map 'Blockout_05_Landscape_Resized' took 2.599
+[2019.06.11-01.23.28:795][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Instances/FieldAssets_Grass_Inst_Trapezoid" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Materials/Instances/FieldAssets_Grass_Inst_Trapezoid.uasset" SILENT=true
+[2019.06.11-01.23.28:831][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.06.11-01.23.28:835][  3]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.11-01.23.29:159][  3]TextureStreamingBuild: Display: Compiling optional shaders took 0.328 seconds.
+[2019.06.11-01.23.29:197][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.06.11-01.23.29:215][  3]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/FieldAssets_Grass_Inst_TrapezoidF0A4C67341DE1BA008DA339F12A01333.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Materials/Instances/FieldAssets_Grass_Inst_Trapezoid.uasset'
+[2019.06.11-01.24.56:996][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
