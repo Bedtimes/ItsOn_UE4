@@ -2767,3 +2767,530 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.11-01.23.29:197][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
 [2019.06.11-01.23.29:215][  3]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/FieldAssets_Grass_Inst_TrapezoidF0A4C67341DE1BA008DA339F12A01333.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Materials/Instances/FieldAssets_Grass_Inst_Trapezoid.uasset'
 [2019.06.11-01.24.56:996][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.06.11-03.34.52:084][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-03.34.52:150][830]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.11-03.34.52:167][830]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-03.34.52:167][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.11-03.34.52:167][830]PIE: New page: PIE session: Blockout_05_Landscape_Resized (Jun 10, 2019, 1:34:52 PM)
+[2019.06.11-03.34.52:167][830]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized
+[2019.06.11-03.34.52:379][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.211529s)
+[2019.06.11-03.34.52:380][830]LogAIModule: Creating AISystem for world Blockout_05_Landscape_Resized
+[2019.06.11-03.34.52:380][830]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2019.06.11-03.34.52:380][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized to /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized (0.212394s)
+[2019.06.11-03.34.52:412][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.06.11-03.34.52:441][830]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.11-03.34.52:491][830]LogInit: FAudioDevice initialized.
+[2019.06.11-03.34.52:520][830]LogLoad: Game class is 'GameModeBase'
+[2019.06.11-03.34.52:553][830]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized up for play (max tick rate 0) at 2019.06.10-20.34.52
+[2019.06.11-03.34.52:554][830]LogWorld: Bringing up level for play took: 0.033745
+[2019.06.11-03.34.52:567][830]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized -0.464
+[2019.06.11-03.34.52:567][830]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-03.34.52:625][831]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.095813 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2019.06.11-03.35.49:123][143]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-03.35.49:123][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-03.35.49:167][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.11-03.35.49:168][143]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-03.35.49:213][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-03.35.49:223][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.06.11-03.35.49:260][144]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2019.06.11-05.33.05:272][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-05.33.05:354][876]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.11-05.33.05:371][876]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-05.33.05:371][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.11-05.33.05:371][876]PIE: New page: PIE session: Blockout_05_Landscape_Resized (Jun 10, 2019, 3:33:05 PM)
+[2019.06.11-05.33.05:371][876]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized
+[2019.06.11-05.33.05:589][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.218020s)
+[2019.06.11-05.33.05:590][876]LogAIModule: Creating AISystem for world Blockout_05_Landscape_Resized
+[2019.06.11-05.33.05:590][876]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2019.06.11-05.33.05:590][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized to /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized (0.219045s)
+[2019.06.11-05.33.05:623][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.06.11-05.33.05:650][876]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.11-05.33.05:698][876]LogInit: FAudioDevice initialized.
+[2019.06.11-05.33.05:727][876]LogLoad: Game class is 'GameModeBase'
+[2019.06.11-05.33.05:761][876]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized up for play (max tick rate 0) at 2019.06.10-22.33.05
+[2019.06.11-05.33.05:762][876]LogWorld: Bringing up level for play took: 0.034368
+[2019.06.11-05.33.05:775][876]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized 0.744
+[2019.06.11-05.33.05:775][876]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-05.33.05:832][877]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.096158 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2019.06.11-05.33.11:597][422]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-05.33.11:598][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-05.33.11:641][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.11-05.33.11:642][422]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-05.33.11:688][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-05.33.11:699][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.06.11-05.33.11:737][423]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2019.06.11-05.37.12:987][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-05.37.15:807][720]LogEditorFactories: Performing atomic reimport of [X:/Google Drive/PROJECTS/ItsGoTime/3D_BUILDS/FOREST_BIOME/GrassTests/Geo/GrassTests_01.fbx]
+[2019.06.11-05.37.15:831][720]LogFbx: Loading FBX Scene from X:/Google Drive/PROJECTS/ItsGoTime/3D_BUILDS/FOREST_BIOME/GrassTests/Geo/GrassTests_01.fbx
+[2019.06.11-05.37.15:836][720]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.11-05.37.15:837][720]LogFbx: Display: Triangulating static mesh GrassTest_02
+[2019.06.11-05.37.15:851][720]LogStaticMesh: Building static mesh GrassTests_01_GrassTest_02...
+[2019.06.11-05.37.15:859][720]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/ForestBiome/grass/GrassTests_01_GrassTest_02.GrassTests_01_GrassTest_02
+[2019.06.11-05.37.15:872][720]LogEditorFactories: -- imported successfully
+[2019.06.11-05.37.15:874][720]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.06.11-05.37.18:596][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-05.37.18:656][970]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.11-05.37.18:672][970]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-05.37.18:672][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.11-05.37.18:672][970]PIE: New page: PIE session: Blockout_05_Landscape_Resized (Jun 10, 2019, 3:37:18 PM)
+[2019.06.11-05.37.18:672][970]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized
+[2019.06.11-05.37.18:869][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.197088s)
+[2019.06.11-05.37.18:869][970]LogAIModule: Creating AISystem for world Blockout_05_Landscape_Resized
+[2019.06.11-05.37.18:869][970]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2019.06.11-05.37.18:869][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized to /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized (0.197814s)
+[2019.06.11-05.37.18:907][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.06.11-05.37.18:932][970]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.11-05.37.18:973][970]LogInit: FAudioDevice initialized.
+[2019.06.11-05.37.19:005][970]LogLoad: Game class is 'GameModeBase'
+[2019.06.11-05.37.19:075][970]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized up for play (max tick rate 0) at 2019.06.10-22.37.19
+[2019.06.11-05.37.19:076][970]LogWorld: Bringing up level for play took: 0.070629
+[2019.06.11-05.37.19:091][970]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized 0.06
+[2019.06.11-05.37.19:091][970]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-05.37.19:186][971]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.097336 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2019.06.11-05.37.57:471][112]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-05.37.57:472][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-05.37.57:509][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.11-05.37.57:510][112]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-05.37.57:557][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-05.37.57:565][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.06.11-05.37.57:598][113]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2019.06.11-05.38.50:326][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-05.38.57:363][222]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/MasterMaterials/Unlit_NoTexture_Foliage_Master.Unlit_NoTexture_Foliage_Master
+[2019.06.11-05.38.57:367][222]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.38.57:435][222]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.38.57:444][222]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.38.57:460][222]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.38.57:484][222]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.11-05.38.57:488][222]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.11-05.38.57:493][222]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.06.11-05.38.57:497][222]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSphereMask_0, compiling. 
+[2019.06.11-05.38.57:501][222]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_0, compiling. 
+[2019.06.11-05.38.57:505][222]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_2, compiling. 
+[2019.06.11-05.38.57:509][222]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.06.11-05.38.57:514][222]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.06.11-05.38.57:521][222]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.06.11-05.38.57:889][232]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.11-05.38.58:453][259]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.38.58:485][260]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2019.06.11-05.38.58:485][260]MaterialEditorStats: Base pass vertex shader: 70 instructions
+[2019.06.11-05.38.58:485][260]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.11-05.38.58:485][260]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2019.06.11-05.38.58:485][260]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.11-05.39.12:987][280]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.39.13:003][280]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.39.13:652][314]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2019.06.11-05.39.13:652][314]MaterialEditorStats: Base pass vertex shader: 64 instructions
+[2019.06.11-05.39.13:652][314]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.11-05.39.13:652][314]MaterialEditorStats: Texture Lookups (Est.): VS(2), PS(1)
+[2019.06.11-05.39.13:652][314]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.11-05.39.14:107][343]LogMaterialEditor: Saving and Compiling material Unlit_NoTexture_Foliage_Master
+[2019.06.11-05.39.14:450][343]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.39.14:479][343]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.39.14:495][343]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.39.14:517][343]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.39.14:534][343]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.39.14:553][343]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.39.14:720][343]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.11-05.39.14:722][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.06.11-05.39.14:729][343]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.11-05.39.15:025][343]TextureStreamingBuild: Display: Compiling optional shaders took 0.302 seconds.
+[2019.06.11-05.39.15:068][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.06.11-05.39.16:882][343]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Unlit_NoTexture_Foliage_MasterEAF47E784F5743E69806ACB5E5F16BB7.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Materials/MasterMaterials/Unlit_NoTexture_Foliage_Master.uasset'
+[2019.06.11-05.39.28:792][132]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.39.28:808][132]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.39.29:436][165]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2019.06.11-05.39.29:437][165]MaterialEditorStats: Base pass vertex shader: 64 instructions
+[2019.06.11-05.39.29:437][165]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.11-05.39.29:437][165]MaterialEditorStats: Texture Lookups (Est.): VS(2), PS(1)
+[2019.06.11-05.39.29:437][165]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.11-05.39.32:559][393]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.39.32:571][393]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.39.32:587][393]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.39.33:207][427]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2019.06.11-05.39.33:207][427]MaterialEditorStats: Base pass vertex shader: 64 instructions
+[2019.06.11-05.39.33:207][427]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.11-05.39.33:207][427]MaterialEditorStats: Texture Lookups (Est.): VS(2), PS(1)
+[2019.06.11-05.39.33:207][427]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.11-05.39.33:740][462]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.39.33:757][462]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.39.33:826][466]LogMaterialEditor: Saving and Compiling material Unlit_NoTexture_Foliage_Master
+[2019.06.11-05.39.34:258][466]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.39.34:277][466]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.39.34:301][466]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.39.34:322][466]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.39.34:337][466]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.39.34:357][466]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.39.34:544][466]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.11-05.39.34:544][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.06.11-05.39.34:551][466]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.11-05.39.34:826][466]TextureStreamingBuild: Display: Compiling optional shaders took 0.282 seconds.
+[2019.06.11-05.39.34:866][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.06.11-05.39.36:657][466]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Unlit_NoTexture_Foliage_Master30431AE84CFDF48EF02CB09B8C466AB4.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Materials/MasterMaterials/Unlit_NoTexture_Foliage_Master.uasset'
+[2019.06.11-05.39.36:684][466]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2019.06.11-05.39.36:685][466]MaterialEditorStats: Base pass vertex shader: 64 instructions
+[2019.06.11-05.39.36:685][466]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.11-05.39.36:685][466]MaterialEditorStats: Texture Lookups (Est.): VS(2), PS(1)
+[2019.06.11-05.39.36:685][466]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.11-05.39.47:275][168]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.39.47:285][168]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.39.47:287][168]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.39.47:540][180]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.39.48:094][210]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2019.06.11-05.39.48:094][210]MaterialEditorStats: Base pass vertex shader: 64 instructions
+[2019.06.11-05.39.48:094][210]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.11-05.39.48:094][210]MaterialEditorStats: Texture Lookups (Est.): VS(2), PS(1)
+[2019.06.11-05.39.48:094][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.11-05.39.48:714][247]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.39.48:732][247]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.39.48:749][248]LogMaterialEditor: Saving and Compiling material Unlit_NoTexture_Foliage_Master
+[2019.06.11-05.39.49:186][248]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.39.49:201][248]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.39.49:229][248]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.39.49:254][248]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.39.49:272][248]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.39.49:292][248]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.39.49:477][248]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.11-05.39.49:477][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.06.11-05.39.49:484][248]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.11-05.39.49:763][248]TextureStreamingBuild: Display: Compiling optional shaders took 0.286 seconds.
+[2019.06.11-05.39.49:808][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.06.11-05.39.51:584][248]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Unlit_NoTexture_Foliage_Master4B340E2E4CC07405B2D909A9196217A8.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Materials/MasterMaterials/Unlit_NoTexture_Foliage_Master.uasset'
+[2019.06.11-05.39.51:611][248]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2019.06.11-05.39.51:611][248]MaterialEditorStats: Base pass vertex shader: 64 instructions
+[2019.06.11-05.39.51:611][248]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.11-05.39.51:611][248]MaterialEditorStats: Texture Lookups (Est.): VS(2), PS(1)
+[2019.06.11-05.39.51:611][248]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.11-05.40.00:878][825]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.00:887][825]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.40.00:889][825]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.01:140][837]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.40.01:687][867]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2019.06.11-05.40.01:687][867]MaterialEditorStats: Base pass vertex shader: 64 instructions
+[2019.06.11-05.40.01:687][867]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.11-05.40.01:687][867]MaterialEditorStats: Texture Lookups (Est.): VS(2), PS(1)
+[2019.06.11-05.40.01:687][867]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.11-05.40.02:115][893]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.02:130][893]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.40.02:186][896]LogMaterialEditor: Saving and Compiling material Unlit_NoTexture_Foliage_Master
+[2019.06.11-05.40.02:634][896]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.02:653][896]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.40.02:679][896]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.02:701][896]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.02:719][896]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.02:736][896]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.02:925][896]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.11-05.40.02:925][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.06.11-05.40.02:934][896]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.11-05.40.03:196][896]TextureStreamingBuild: Display: Compiling optional shaders took 0.271 seconds.
+[2019.06.11-05.40.03:235][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.06.11-05.40.05:043][896]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Unlit_NoTexture_Foliage_Master56B71F15476EB55A305A668ECD473B4C.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Materials/MasterMaterials/Unlit_NoTexture_Foliage_Master.uasset'
+[2019.06.11-05.40.05:071][896]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2019.06.11-05.40.05:071][896]MaterialEditorStats: Base pass vertex shader: 64 instructions
+[2019.06.11-05.40.05:071][896]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.11-05.40.05:071][896]MaterialEditorStats: Texture Lookups (Est.): VS(2), PS(1)
+[2019.06.11-05.40.05:071][896]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.11-05.40.13:941][468]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.13:953][468]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.13:966][468]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.40.14:579][502]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2019.06.11-05.40.14:579][502]MaterialEditorStats: Base pass vertex shader: 64 instructions
+[2019.06.11-05.40.14:579][502]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.11-05.40.14:579][502]MaterialEditorStats: Texture Lookups (Est.): VS(2), PS(1)
+[2019.06.11-05.40.14:579][502]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.11-05.40.15:530][570]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.15:546][570]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.40.15:594][573]LogMaterialEditor: Saving and Compiling material Unlit_NoTexture_Foliage_Master
+[2019.06.11-05.40.16:028][573]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.16:048][573]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.40.16:076][573]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.16:099][573]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.16:116][573]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.16:137][573]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.16:318][573]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.11-05.40.16:318][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.06.11-05.40.16:327][573]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.11-05.40.16:604][573]TextureStreamingBuild: Display: Compiling optional shaders took 0.285 seconds.
+[2019.06.11-05.40.16:642][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.06.11-05.40.18:439][573]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Unlit_NoTexture_Foliage_Master09F3ACED41ED9FE8C09C979CB967ED10.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Materials/MasterMaterials/Unlit_NoTexture_Foliage_Master.uasset'
+[2019.06.11-05.40.18:466][573]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2019.06.11-05.40.18:466][573]MaterialEditorStats: Base pass vertex shader: 64 instructions
+[2019.06.11-05.40.18:466][573]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.11-05.40.18:466][573]MaterialEditorStats: Texture Lookups (Est.): VS(2), PS(1)
+[2019.06.11-05.40.18:466][573]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.11-05.40.26:919][123]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.26:928][123]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.40.26:930][123]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.27:196][136]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.40.27:774][168]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2019.06.11-05.40.27:774][168]MaterialEditorStats: Base pass vertex shader: 64 instructions
+[2019.06.11-05.40.27:774][168]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.11-05.40.27:774][168]MaterialEditorStats: Texture Lookups (Est.): VS(2), PS(1)
+[2019.06.11-05.40.27:774][168]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.11-05.40.28:238][198]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.28:251][198]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.40.28:288][200]LogMaterialEditor: Saving and Compiling material Unlit_NoTexture_Foliage_Master
+[2019.06.11-05.40.28:766][200]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.28:786][200]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.40.28:816][200]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.28:840][200]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.28:855][200]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.28:872][200]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.29:043][200]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.11-05.40.29:043][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.06.11-05.40.29:050][200]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.11-05.40.29:317][200]TextureStreamingBuild: Display: Compiling optional shaders took 0.274 seconds.
+[2019.06.11-05.40.29:359][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.06.11-05.40.31:164][200]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Unlit_NoTexture_Foliage_MasterBC9246104AE6ED9ED1C975A35FA2134B.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Materials/MasterMaterials/Unlit_NoTexture_Foliage_Master.uasset'
+[2019.06.11-05.40.31:192][200]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2019.06.11-05.40.31:192][200]MaterialEditorStats: Base pass vertex shader: 64 instructions
+[2019.06.11-05.40.31:192][200]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.11-05.40.31:192][200]MaterialEditorStats: Texture Lookups (Est.): VS(2), PS(1)
+[2019.06.11-05.40.31:192][200]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.11-05.40.46:412][219]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.46:422][219]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.40.46:424][219]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.46:669][229]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.40.47:254][262]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2019.06.11-05.40.47:255][262]MaterialEditorStats: Base pass vertex shader: 64 instructions
+[2019.06.11-05.40.47:255][262]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.11-05.40.47:255][262]MaterialEditorStats: Texture Lookups (Est.): VS(2), PS(1)
+[2019.06.11-05.40.47:255][262]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.11-05.40.48:741][366]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.48:756][366]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.40.49:359][397]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2019.06.11-05.40.49:359][397]MaterialEditorStats: Base pass vertex shader: 64 instructions
+[2019.06.11-05.40.49:359][397]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.11-05.40.49:359][397]MaterialEditorStats: Texture Lookups (Est.): VS(2), PS(1)
+[2019.06.11-05.40.49:359][397]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.11-05.40.52:460][625]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.52:471][625]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.52:485][625]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.40.53:109][658]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2019.06.11-05.40.53:109][658]MaterialEditorStats: Base pass vertex shader: 64 instructions
+[2019.06.11-05.40.53:109][658]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.11-05.40.53:109][658]MaterialEditorStats: Texture Lookups (Est.): VS(2), PS(1)
+[2019.06.11-05.40.53:109][658]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.11-05.40.54:103][727]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.54:115][727]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.40.54:728][761]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2019.06.11-05.40.54:728][761]MaterialEditorStats: Base pass vertex shader: 64 instructions
+[2019.06.11-05.40.54:728][761]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.11-05.40.54:728][761]MaterialEditorStats: Texture Lookups (Est.): VS(2), PS(1)
+[2019.06.11-05.40.54:728][761]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.11-05.40.56:486][882]LogMaterialEditor: Saving and Compiling material Unlit_NoTexture_Foliage_Master
+[2019.06.11-05.40.56:868][882]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.56:888][882]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.40.56:935][882]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.56:958][882]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.56:974][882]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.56:992][882]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.40.57:175][882]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.11-05.40.57:175][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.06.11-05.40.57:186][882]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.11-05.40.57:453][882]TextureStreamingBuild: Display: Compiling optional shaders took 0.278 seconds.
+[2019.06.11-05.40.57:491][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.06.11-05.40.59:299][882]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Unlit_NoTexture_Foliage_Master6437A5CA4A2E326F3D80B9B1BCB87298.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Materials/MasterMaterials/Unlit_NoTexture_Foliage_Master.uasset'
+[2019.06.11-05.41.20:237][277]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.41.20:253][277]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.41.20:887][310]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2019.06.11-05.41.20:887][310]MaterialEditorStats: Base pass vertex shader: 70 instructions
+[2019.06.11-05.41.20:887][310]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.11-05.41.20:887][310]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2019.06.11-05.41.20:887][310]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.11-05.41.21:944][378]LogMaterialEditor: Saving and Compiling material Unlit_NoTexture_Foliage_Master
+[2019.06.11-05.41.22:347][378]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.41.22:368][378]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.41.22:410][378]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.41.22:437][378]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.41.22:450][378]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.41.22:468][378]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.41.22:642][378]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.11-05.41.22:642][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.06.11-05.41.22:651][378]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.11-05.41.22:917][378]TextureStreamingBuild: Display: Compiling optional shaders took 0.275 seconds.
+[2019.06.11-05.41.22:957][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.06.11-05.41.24:830][378]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Unlit_NoTexture_Foliage_Master1CE6E10043144E7FA9A6DA8A7254E33A.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Materials/MasterMaterials/Unlit_NoTexture_Foliage_Master.uasset'
+[2019.06.11-05.41.43:928][661]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.41.43:940][661]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.41.43:953][661]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.41.44:593][696]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2019.06.11-05.41.44:593][696]MaterialEditorStats: Base pass vertex shader: 70 instructions
+[2019.06.11-05.41.44:593][696]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.11-05.41.44:593][696]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2019.06.11-05.41.44:593][696]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.11-05.41.45:240][740]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.41.45:255][740]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.41.45:273][741]LogMaterialEditor: Saving and Compiling material Unlit_NoTexture_Foliage_Master
+[2019.06.11-05.41.45:722][741]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.41.45:739][741]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.41.45:765][741]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.41.45:788][741]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.41.45:807][741]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.41.45:827][741]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.41.46:011][741]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.11-05.41.46:011][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.06.11-05.41.46:019][741]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.11-05.41.46:318][741]TextureStreamingBuild: Display: Compiling optional shaders took 0.307 seconds.
+[2019.06.11-05.41.46:357][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.06.11-05.41.48:230][741]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Unlit_NoTexture_Foliage_Master0F2A7B084224A5416AA1F7B896720092.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Materials/MasterMaterials/Unlit_NoTexture_Foliage_Master.uasset'
+[2019.06.11-05.41.48:258][741]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2019.06.11-05.41.48:258][741]MaterialEditorStats: Base pass vertex shader: 70 instructions
+[2019.06.11-05.41.48:258][741]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.11-05.41.48:258][741]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2019.06.11-05.41.48:258][741]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.11-05.41.55:716][212]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.11-05.41.55:729][212]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-05.41.55:729][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.11-05.41.55:729][212]PIE: New page: PIE session: Blockout_05_Landscape_Resized (Jun 10, 2019, 3:41:55 PM)
+[2019.06.11-05.41.55:730][212]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized
+[2019.06.11-05.41.55:978][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.248268s)
+[2019.06.11-05.41.55:979][212]LogAIModule: Creating AISystem for world Blockout_05_Landscape_Resized
+[2019.06.11-05.41.55:979][212]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2019.06.11-05.41.55:979][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized to /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized (0.249307s)
+[2019.06.11-05.41.56:017][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.06.11-05.41.56:042][212]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.11-05.41.56:084][212]LogInit: FAudioDevice initialized.
+[2019.06.11-05.41.56:114][212]LogLoad: Game class is 'GameModeBase'
+[2019.06.11-05.41.56:164][212]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized up for play (max tick rate 0) at 2019.06.10-22.41.56
+[2019.06.11-05.41.56:165][212]LogWorld: Bringing up level for play took: 0.050233
+[2019.06.11-05.41.56:179][212]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Blockout_05_Landscape_Resized 1.148
+[2019.06.11-05.41.56:180][212]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-05.41.56:286][213]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.099134 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2019.06.11-05.42.09:846][249]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-05.42.09:847][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-05.42.09:889][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.11-05.42.09:890][249]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized' with GeneratedClass '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized_C' with ClassGeneratedBy '/Game/Maps/Blockout_05_Landscape_Resized.Blockout_05_Landscape_Resized:PersistentLevel.Blockout_05_Landscape_Resized'
+[2019.06.11-05.42.09:936][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-05.42.09:943][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.06.11-05.42.09:987][250]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2019.06.11-05.42.12:985][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-05.42.16:429][683]LogAIModule: Creating AISystem for world Testing_Map_02
+[2019.06.11-05.42.16:440][683]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Testing_Map_02.Testing_Map_02
+[2019.06.11-05.42.16:477][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.06.11-05.42.17:839][683]LogSlate: Window 'Save Content' being destroyed
+[2019.06.11-05.42.17:851][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_05_Landscape_Resized" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Resized.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.11-05.42.17:889][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.06.11-05.42.20:531][683]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_05_Landscape_ResizedEFD3F3D64F0AAA5A07F2F7BB00719936.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Resized.umap'
+[2019.06.11-05.42.20:563][683]LogFileHelpers: Saving map 'Blockout_05_Landscape_Resized' took 2.713
+[2019.06.11-05.42.20:590][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/ForestBiome/grass/GrassTests_01_GrassTest_02" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Meshes/ForestBiome/grass/GrassTests_01_GrassTest_02.uasset" SILENT=true
+[2019.06.11-05.42.20:612][683]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/GrassTests_01_GrassTest_02F16D10434162834A984DCF868566436B.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Meshes/ForestBiome/grass/GrassTests_01_GrassTest_02.uasset'
+[2019.06.11-05.42.20:620][683]Cmd: MAP LOAD FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Testing_Map_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.11-05.42.20:620][683]LightingResults: New page: Lighting Build
+[2019.06.11-05.42.20:621][683]LoadErrors: New page: Loading map: Testing_Map_02.umap
+[2019.06.11-05.42.20:632][683]MapCheck: New page: Map Check
+[2019.06.11-05.42.20:632][683]LightingResults: New page: Lighting Build
+[2019.06.11-05.42.20:766][683]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.06.11-05.42.21:041][683]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.11-05.42.21:091][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.06.11-05.42.21:113][683]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.11-05.42.21:113][683]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2019.06.11-05.42.21:113][683]LogFileHelpers: Loading map 'Testing_Map_02' took 0.500
+[2019.06.11-05.42.27:439][683]LogAIModule: Creating AISystem for world Blockout_05_Landscape_Resized
+[2019.06.11-05.42.31:716][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-05.42.31:805][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.11-05.42.31:819][ 14]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel.Testing_Map_02' with GeneratedClass '/Game/Maps/Testing_Map_02.Testing_Map_02_C' with ClassGeneratedBy '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel.Testing_Map_02'
+[2019.06.11-05.42.31:819][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.11-05.42.31:819][ 14]PIE: New page: PIE session: Testing_Map_02 (Jun 10, 2019, 3:42:31 PM)
+[2019.06.11-05.42.31:820][ 14]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Map_02
+[2019.06.11-05.42.31:948][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.127475s)
+[2019.06.11-05.42.31:949][ 14]LogAIModule: Creating AISystem for world Testing_Map_02
+[2019.06.11-05.42.31:949][ 14]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2019.06.11-05.42.31:949][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Map_02.Testing_Map_02 to /Game/Maps/UEDPIE_0_Testing_Map_02.Testing_Map_02 (0.128705s)
+[2019.06.11-05.42.31:993][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.06.11-05.42.32:017][ 14]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.11-05.42.32:061][ 14]LogInit: FAudioDevice initialized.
+[2019.06.11-05.42.32:094][ 14]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.11-05.42.32:103][ 14]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Map_02.Testing_Map_02 up for play (max tick rate 0) at 2019.06.10-22.42.32
+[2019.06.11-05.42.32:103][ 14]LogWorld: Bringing up level for play took: 0.008781
+[2019.06.11-05.42.32:120][ 14]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testing_Map_02 1.088
+[2019.06.11-05.42.32:120][ 14]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel.Testing_Map_02' with GeneratedClass '/Game/Maps/Testing_Map_02.Testing_Map_02_C' with ClassGeneratedBy '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel.Testing_Map_02'
+[2019.06.11-05.42.57:286][977]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel.Testing_Map_02' with GeneratedClass '/Game/Maps/Testing_Map_02.Testing_Map_02_C' with ClassGeneratedBy '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel.Testing_Map_02'
+[2019.06.11-05.42.57:286][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-05.42.57:322][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.11-05.42.57:323][977]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel.Testing_Map_02' with GeneratedClass '/Game/Maps/Testing_Map_02.Testing_Map_02_C' with ClassGeneratedBy '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel.Testing_Map_02'
+[2019.06.11-05.42.57:374][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-05.42.57:378][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.06.11-05.42.57:415][978]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2019.06.11-05.42.58:468][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-05.43.00:471][217]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.43.00:480][217]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.43.00:482][217]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.43.00:929][243]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.43.01:459][270]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.43.01:467][270]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.43.01:510][272]LogMaterialEditor: Saving and Compiling material Unlit_NoTexture_Foliage_Master
+[2019.06.11-05.43.01:965][272]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.43.01:984][272]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.43.02:009][272]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.43.02:033][272]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.43.02:051][272]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.43.02:072][272]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.43.02:261][272]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.11-05.43.02:262][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.06.11-05.43.02:270][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.11-05.43.02:574][272]TextureStreamingBuild: Display: Compiling optional shaders took 0.311 seconds.
+[2019.06.11-05.43.02:613][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.06.11-05.43.02:656][272]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.11-05.43.04:508][272]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Unlit_NoTexture_Foliage_Master1426271643B36CF28EE242A2F4F44E88.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Materials/MasterMaterials/Unlit_NoTexture_Foliage_Master.uasset'
+[2019.06.11-05.43.04:533][272]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2019.06.11-05.43.04:533][272]MaterialEditorStats: Base pass vertex shader: 70 instructions
+[2019.06.11-05.43.04:533][272]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.11-05.43.04:533][272]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2019.06.11-05.43.04:533][272]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.11-05.43.11:401][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-05.43.13:970][975]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.43.13:981][975]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.43.13:997][975]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.43.14:649][ 17]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2019.06.11-05.43.14:649][ 17]MaterialEditorStats: Base pass vertex shader: 70 instructions
+[2019.06.11-05.43.14:649][ 17]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.11-05.43.14:650][ 17]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2019.06.11-05.43.14:650][ 17]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.11-05.43.15:184][ 60]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.43.15:196][ 60]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.43.15:248][ 63]LogMaterialEditor: Saving and Compiling material Unlit_NoTexture_Foliage_Master
+[2019.06.11-05.43.15:685][ 63]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.43.15:702][ 63]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.11-05.43.15:728][ 63]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.43.15:756][ 63]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.43.15:774][ 63]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.43.15:795][ 63]LogMaterial: Display: Missing cached shader map for material Unlit_NoTexture_Foliage_Master, compiling. 
+[2019.06.11-05.43.15:975][ 63]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.11-05.43.15:975][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.06.11-05.43.15:983][ 63]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.11-05.43.16:276][ 63]TextureStreamingBuild: Display: Compiling optional shaders took 0.300 seconds.
+[2019.06.11-05.43.16:315][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.06.11-05.43.16:357][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.11-05.43.18:180][ 63]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Unlit_NoTexture_Foliage_Master8FE2C5B546AC66CB12EA4997CA345ABD.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Materials/MasterMaterials/Unlit_NoTexture_Foliage_Master.uasset'
+[2019.06.11-05.43.18:212][ 63]MaterialEditorStats: Base pass shader without light map: 45 instructions
+[2019.06.11-05.43.18:212][ 63]MaterialEditorStats: Base pass vertex shader: 70 instructions
+[2019.06.11-05.43.18:212][ 63]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.11-05.43.18:212][ 63]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2019.06.11-05.43.18:212][ 63]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.11-05.43.35:943][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-05.43.36:024][493]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.11-05.43.36:036][493]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel.Testing_Map_02' with GeneratedClass '/Game/Maps/Testing_Map_02.Testing_Map_02_C' with ClassGeneratedBy '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel.Testing_Map_02'
+[2019.06.11-05.43.36:036][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.11-05.43.36:036][493]PIE: New page: PIE session: Testing_Map_02 (Jun 10, 2019, 3:43:36 PM)
+[2019.06.11-05.43.36:037][493]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Map_02
+[2019.06.11-05.43.36:128][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090921s)
+[2019.06.11-05.43.36:128][493]LogAIModule: Creating AISystem for world Testing_Map_02
+[2019.06.11-05.43.36:129][493]LogPlayLevel: PIE: World Init took: (0.000571s)
+[2019.06.11-05.43.36:129][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Map_02.Testing_Map_02 to /Game/Maps/UEDPIE_0_Testing_Map_02.Testing_Map_02 (0.091657s)
+[2019.06.11-05.43.36:164][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.06.11-05.43.36:188][493]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.11-05.43.36:229][493]LogInit: FAudioDevice initialized.
+[2019.06.11-05.43.36:260][493]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.11-05.43.36:271][493]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Map_02.Testing_Map_02 up for play (max tick rate 0) at 2019.06.10-22.43.36
+[2019.06.11-05.43.36:271][493]LogWorld: Bringing up level for play took: 0.010433
+[2019.06.11-05.43.36:287][493]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Testing_Map_02 -0.744
+[2019.06.11-05.43.36:288][493]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel.Testing_Map_02' with GeneratedClass '/Game/Maps/Testing_Map_02.Testing_Map_02_C' with ClassGeneratedBy '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel.Testing_Map_02'
+[2019.06.11-05.44.16:412][735]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel.Testing_Map_02' with GeneratedClass '/Game/Maps/Testing_Map_02.Testing_Map_02_C' with ClassGeneratedBy '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel.Testing_Map_02'
+[2019.06.11-05.44.16:412][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-05.44.16:447][735]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.11-05.44.16:447][735]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel.Testing_Map_02' with GeneratedClass '/Game/Maps/Testing_Map_02.Testing_Map_02_C' with ClassGeneratedBy '/Game/Maps/Testing_Map_02.Testing_Map_02:PersistentLevel.Testing_Map_02'
+[2019.06.11-05.44.16:493][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-05.44.16:496][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.06.11-05.44.16:534][736]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2019.06.11-05.44.18:817][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-05.44.18:904][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
