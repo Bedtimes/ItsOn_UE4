@@ -707,3 +707,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.15-20.04.59:654][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
 [2019.06.15-20.05.02:497][ 30]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_05_Landscape_ResizedEBF7410740466D864378DB802CA3AB96.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Resized.umap'
 [2019.06.15-20.05.02:531][ 30]LogFileHelpers: Saving map 'Blockout_05_Landscape_Resized' took 2.910
+[2019.06.15-20.05.19:930][575]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.06.15-20.05.52:866][421]LogSlate: Window 'Project Settings' being destroyed
+[2019.06.15-20.05.52:870][421]LogSlate: Window 'Project Settings' being destroyed
+[2019.06.15-20.05.53:794][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Blockout_05_Landscape_Resized" FILE="X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Resized.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.15-20.05.53:825][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.06.15-20.05.56:392][518]LogSavePackage: Moving 'X:/ItsOnRepo_UE4/ItsOn_UE4/Saved/Blockout_05_Landscape_Resized0146C778441CF799A5083689E1DA7AC7.tmp' to 'X:/ItsOnRepo_UE4/ItsOn_UE4/Content/Maps/Blockout_05_Landscape_Resized.umap'
+[2019.06.15-20.05.56:427][518]LogFileHelpers: Saving map 'Blockout_05_Landscape_Resized' took 2.635
+[2019.06.15-20.05.57:068][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.06.15-20.06.01:027][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
